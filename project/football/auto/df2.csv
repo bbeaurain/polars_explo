@@ -1,761 +1,761 @@
-Div,Team,FTG,HTG,S,ST,F,C,Y,R,Score
-E0,Man United,2,1,8,6,11,2,2,0,WIN
-E0,Bournemouth,2,1,12,4,11,7,1,0,WIN
-E0,Fulham,0,0,15,6,9,5,1,0,LOOSE
-E0,Huddersfield,0,0,6,1,9,2,2,0,LOOSE
-E0,Newcastle,1,1,15,2,11,3,2,0,LOOSE
-E0,Watford,2,1,19,5,10,8,2,0,WIN
-E0,Wolves,2,1,11,4,8,3,0,0,DRAW
-E0,Arsenal,0,0,9,3,11,2,2,0,LOOSE
-E0,Liverpool,4,2,18,8,14,5,1,0,WIN
-E0,Southampton,0,0,18,3,10,8,0,0,DRAW
-E0,Cardiff,0,0,12,1,14,5,2,0,DRAW
-E0,Chelsea,3,2,24,11,12,5,0,0,WIN
-E0,Everton,2,2,13,7,8,2,0,0,WIN
-E0,Leicester,2,2,6,2,10,1,2,1,WIN
-E0,Tottenham,3,1,25,11,9,5,0,0,WIN
-E0,West Ham,1,1,11,5,14,6,6,0,LOOSE
-E0,Brighton,3,3,6,3,16,3,1,0,WIN
-E0,Burnley,1,1,8,3,8,5,1,0,LOOSE
-E0,Man City,6,3,32,14,9,10,0,0,WIN
-E0,Crystal Palace,0,0,8,2,6,6,1,1,LOOSE
-E0,Arsenal,3,1,17,10,16,10,1,0,WIN
-E0,Bournemouth,2,0,17,5,12,6,0,1,DRAW
-E0,Huddersfield,0,0,5,1,8,7,0,1,DRAW
-E0,Liverpool,1,1,22,8,8,8,1,0,WIN
-E0,Southampton,1,0,11,5,13,10,1,1,LOOSE
-E0,Wolves,1,0,11,2,13,5,1,0,DRAW
-E0,Fulham,4,3,25,12,11,6,2,0,WIN
-E0,Newcastle,1,0,6,2,16,4,3,0,LOOSE
-E0,Watford,2,0,13,5,14,6,4,0,WIN
-E0,Man United,0,0,23,5,11,5,2,0,LOOSE
-E0,Brighton,2,0,15,5,12,7,3,0,DRAW
-E0,Chelsea,2,0,24,6,10,7,2,0,WIN
-E0,Crystal Palace,0,0,20,6,11,7,1,0,LOOSE
-E0,Everton,1,1,11,1,13,4,3,0,DRAW
-E0,Leicester,1,0,12,5,9,4,3,0,LOOSE
-E0,Man City,2,1,24,8,5,4,0,0,WIN
-E0,West Ham,0,0,13,3,10,4,2,0,LOOSE
-E0,Burnley,0,0,9,2,7,2,2,0,LOOSE
-E0,Cardiff,2,1,14,3,12,3,3,0,LOOSE
-E0,Watford,2,0,7,3,9,3,2,0,WIN
-E0,Bournemouth,4,3,10,5,13,4,3,0,WIN
-E0,Chelsea,4,2,18,7,8,5,0,0,WIN
-E0,Huddersfield,0,0,15,2,11,5,1,0,LOOSE
-E0,Man City,3,2,28,9,7,10,0,0,WIN
-E0,Newcastle,1,0,4,2,13,10,0,0,LOOSE
-E0,Tottenham,1,0,11,3,17,5,0,0,LOOSE
-E0,Watford,1,0,14,5,9,6,2,0,LOOSE
-E0,Everton,1,1,16,4,15,4,2,0,LOOSE
-E0,Wolves,1,0,30,7,10,8,2,0,WIN
-E0,Southampton,2,1,14,5,10,1,2,0,DRAW
-E0,Brighton,1,0,8,4,15,5,2,0,LOOSE
-E0,Burnley,4,2,12,5,17,3,2,0,WIN
-E0,Cardiff,0,0,2,2,6,1,1,0,LOOSE
-E0,Crystal Palace,0,0,16,4,8,9,1,0,DRAW
-E0,Fulham,1,0,15,3,11,8,2,0,DRAW
-E0,Leicester,3,1,18,8,10,3,2,0,WIN
-E0,Liverpool,3,3,12,4,7,5,0,0,WIN
-E0,Man United,1,1,15,6,5,5,1,0,DRAW
-E0,Arsenal,2,0,9,5,17,5,2,0,WIN
-E0,West Ham,0,0,6,1,11,1,2,0,DRAW
-E0,Arsenal,2,0,9,2,11,6,2,0,WIN
-E0,Chelsea,1,1,10,4,7,4,0,0,DRAW
-E0,Everton,3,0,19,6,13,12,0,0,WIN
-E0,Huddersfield,0,0,9,5,17,3,2,0,LOOSE
-E0,Man City,2,1,28,8,4,10,0,0,WIN
-E0,Newcastle,0,0,6,1,11,5,0,0,LOOSE
-E0,West Ham,3,2,8,3,12,4,0,0,WIN
-E0,Wolves,2,0,14,6,11,8,3,0,WIN
-E0,Cardiff,1,0,19,5,11,10,1,0,LOOSE
-E0,Bournemouth,2,1,11,5,9,3,3,0,WIN
-E0,Brighton,1,1,9,4,12,2,3,0,WIN
-E0,Burnley,1,1,6,3,8,1,2,0,DRAW
-E0,Crystal Palace,0,0,11,4,11,6,3,0,LOOSE
-E0,Leicester,1,1,8,2,10,2,2,1,LOOSE
-E0,Man United,3,0,18,10,16,10,2,0,WIN
-E0,Tottenham,1,1,19,7,7,6,2,0,WIN
-E0,Watford,0,0,14,2,11,10,3,1,LOOSE
-E0,Fulham,1,1,21,4,11,4,2,0,LOOSE
-E0,Liverpool,0,0,7,2,10,2,1,0,DRAW
-E0,Southampton,0,0,15,6,13,4,6,0,LOOSE
-E0,Bournemouth,0,0,10,2,10,6,1,0,DRAW
-E0,Cardiff,4,2,22,5,15,4,3,0,WIN
-E0,Chelsea,2,1,21,6,9,5,2,0,DRAW
-E0,Huddersfield,0,0,13,1,9,2,0,0,LOOSE
-E0,Man City,5,1,24,10,11,10,2,0,WIN
-E0,Newcastle,0,0,27,6,13,10,0,0,LOOSE
-E0,West Ham,0,0,13,4,8,10,3,0,LOOSE
-E0,Wolves,0,0,10,1,23,8,3,0,LOOSE
-E0,Everton,2,0,20,4,13,10,2,0,WIN
-E0,Arsenal,3,1,19,6,10,6,2,0,WIN
-E0,Brighton,1,0,2,1,11,1,3,0,WIN
-E0,Fulham,0,0,11,1,16,5,2,1,LOOSE
-E0,Leicester,1,0,21,7,17,8,1,0,DRAW
-E0,Liverpool,4,1,19,7,6,8,0,0,WIN
-E0,Southampton,0,0,22,4,9,7,0,0,DRAW
-E0,Watford,3,2,12,6,9,3,1,0,WIN
-E0,Burnley,0,0,7,1,14,4,4,0,LOOSE
-E0,Crystal Palace,2,1,16,3,10,6,1,0,DRAW
-E0,Man United,2,1,14,10,15,8,2,0,WIN
-E0,Tottenham,0,0,4,1,13,3,2,0,LOOSE
-E0,Arsenal,1,0,12,4,7,5,1,0,DRAW
-E0,Bournemouth,1,1,18,7,12,9,4,0,LOOSE
-E0,Cardiff,0,0,11,2,13,6,2,0,LOOSE
-E0,Everton,3,1,14,3,9,6,0,0,WIN
-E0,Newcastle,1,0,10,2,12,8,1,0,WIN
-E0,West Ham,4,1,22,10,7,10,1,0,WIN
-E0,Wolves,2,0,16,7,11,5,1,0,LOOSE
-E0,Chelsea,3,1,15,6,6,4,0,0,WIN
-E0,Man City,6,4,18,8,14,4,1,0,WIN
-E0,Huddersfield,1,1,10,2,11,5,1,0,WIN
-E0,Cardiff,2,1,20,6,7,4,2,0,WIN
-E0,Crystal Palace,0,0,11,4,12,10,1,0,LOOSE
-E0,Huddersfield,1,1,15,7,9,5,1,0,DRAW
-E0,Leicester,0,0,22,5,13,12,2,0,DRAW
-E0,Newcastle,2,2,18,6,9,7,2,0,WIN
-E0,Southampton,1,1,14,4,13,7,3,0,DRAW
-E0,Arsenal,1,0,10,3,9,11,2,0,DRAW
-E0,Chelsea,0,0,15,4,7,5,4,0,DRAW
-E0,Liverpool,2,1,20,7,11,6,1,0,WIN
-E0,Man City,3,1,17,5,12,5,1,0,WIN
-E0,Brighton,1,1,14,3,10,6,3,0,DRAW
-E0,Everton,1,0,16,8,12,7,0,0,WIN
-E0,Fulham,3,2,10,5,10,2,2,0,WIN
-E0,Man United,0,0,12,5,13,10,1,0,DRAW
-E0,Tottenham,3,2,18,9,19,4,0,0,WIN
-E0,Watford,0,0,5,1,12,5,0,0,LOOSE
-E0,West Ham,0,0,9,1,6,8,0,0,LOOSE
-E0,Bournemouth,1,1,11,5,6,5,2,0,LOOSE
-E0,Wolves,0,0,12,3,9,3,1,0,LOOSE
-E0,Burnley,1,1,14,4,6,5,0,0,LOOSE
-E0,Cardiff,2,0,17,3,3,7,1,0,WIN
-E0,Crystal Palace,2,1,29,9,9,10,1,0,WIN
-E0,Huddersfield,1,1,7,2,10,2,0,1,LOOSE
-E0,Leicester,2,2,7,3,7,4,2,0,WIN
-E0,Man City,3,1,16,6,9,8,0,0,WIN
-E0,Newcastle,0,0,16,4,10,7,3,0,LOOSE
-E0,Southampton,2,2,16,6,12,3,4,0,DRAW
-E0,Arsenal,4,1,22,7,15,8,3,0,WIN
-E0,Chelsea,2,1,16,9,8,4,2,0,WIN
-E0,Liverpool,1,0,16,3,12,8,3,0,WIN
-E0,Bournemouth,2,2,6,2,14,4,4,0,WIN
-E0,Brighton,3,3,9,3,14,4,2,1,WIN
-E0,Watford,1,0,11,7,4,3,0,0,LOOSE
-E0,West Ham,3,0,17,11,10,10,1,0,WIN
-E0,Burnley,1,0,10,6,10,5,1,0,LOOSE
-E0,Everton,1,1,19,3,7,14,0,0,DRAW
-E0,Fulham,1,1,25,7,12,10,0,0,DRAW
-E0,Man United,2,1,10,7,13,4,3,0,DRAW
-E0,Tottenham,3,1,13,8,7,8,0,0,WIN
-E0,Wolves,2,0,6,2,18,1,4,0,WIN
-E0,Arsenal,1,0,14,2,13,7,5,0,WIN
-E0,Bournemouth,0,0,8,2,9,6,2,0,LOOSE
-E0,Burnley,1,1,14,4,11,2,2,0,WIN
-E0,Cardiff,1,0,13,4,9,7,2,0,WIN
-E0,Chelsea,2,1,8,5,12,1,2,0,WIN
-E0,Leicester,0,0,11,3,12,6,3,0,LOOSE
-E0,Man United,4,3,20,11,11,10,1,0,WIN
-E0,West Ham,3,0,13,6,10,5,1,0,WIN
-E0,Newcastle,1,1,12,4,10,4,2,1,LOOSE
-E0,Everton,2,1,12,5,13,6,1,0,DRAW
-E0,Crystal Palace,1,1,8,1,10,4,2,0,WIN
-E0,Fulham,0,0,16,4,14,6,2,0,LOOSE
-E0,Huddersfield,0,0,15,5,5,10,1,0,LOOSE
-E0,Man City,3,1,13,5,7,6,1,0,WIN
-E0,Tottenham,1,0,15,3,7,8,0,0,WIN
-E0,Watford,3,1,17,8,7,5,0,0,WIN
-E0,Wolves,2,1,9,3,15,5,1,0,WIN
-E0,Brighton,1,0,6,2,14,4,2,0,LOOSE
-E0,Liverpool,3,1,36,11,6,13,0,0,WIN
-E0,Southampton,3,2,12,7,12,4,3,0,WIN
-E0,Wolves,0,0,11,5,7,1,0,0,LOOSE
-E0,Arsenal,3,1,10,6,10,1,2,0,WIN
-E0,Bournemouth,2,1,14,3,8,6,2,0,WIN
-E0,Cardiff,1,1,9,3,13,4,2,0,LOOSE
-E0,Chelsea,0,0,17,5,10,9,0,0,LOOSE
-E0,Huddersfield,1,0,16,5,12,8,2,0,LOOSE
-E0,Man City,2,1,19,5,7,13,0,0,LOOSE
-E0,Newcastle,0,0,9,0,9,6,1,0,DRAW
-E0,West Ham,0,0,18,7,9,10,3,0,LOOSE
-E0,Everton,2,1,10,3,13,2,0,0,LOOSE
-E0,Brighton,1,1,12,3,10,4,2,0,DRAW
-E0,Burnley,1,1,11,4,11,5,2,0,LOOSE
-E0,Crystal Palace,0,0,31,5,9,12,0,0,DRAW
-E0,Fulham,1,0,11,9,9,2,2,0,DRAW
-E0,Leicester,2,1,10,5,5,3,2,0,WIN
-E0,Liverpool,4,1,16,8,7,10,0,0,WIN
-E0,Man United,3,1,16,10,9,5,1,0,WIN
-E0,Tottenham,5,3,10,7,4,3,2,0,WIN
-E0,Watford,1,1,10,2,15,3,1,0,LOOSE
-E0,Southampton,1,0,11,5,10,4,2,0,LOOSE
-E0,Brighton,1,0,11,3,10,6,0,0,WIN
-E0,Fulham,1,0,14,5,12,4,3,0,WIN
-E0,Leicester,0,0,16,7,14,10,0,0,LOOSE
-E0,Liverpool,5,4,15,10,8,5,1,0,WIN
-E0,Tottenham,1,1,10,3,7,6,3,0,LOOSE
-E0,Watford,1,0,12,5,17,3,1,0,DRAW
-E0,Burnley,2,2,17,5,15,5,1,0,WIN
-E0,Crystal Palace,0,0,4,0,11,3,0,0,LOOSE
-E0,Man United,4,3,11,8,10,4,2,1,WIN
-E0,Southampton,1,1,5,4,11,3,2,1,LOOSE
-E0,Arsenal,4,1,16,9,7,8,0,0,WIN
-E0,Cardiff,0,0,6,3,6,5,1,0,LOOSE
-E0,Everton,0,0,17,2,5,6,3,0,LOOSE
-E0,Bournemouth,3,3,25,12,9,4,1,0,DRAW
-E0,Chelsea,0,0,17,6,8,7,1,0,DRAW
-E0,Huddersfield,1,1,9,2,11,5,0,1,LOOSE
-E0,Newcastle,0,0,14,3,10,1,1,0,LOOSE
-E0,West Ham,2,0,13,6,9,1,0,0,DRAW
-E0,Wolves,0,0,9,1,9,3,4,0,LOOSE
-E0,Man City,2,1,9,4,12,2,4,0,WIN
-E0,Brighton,0,0,7,0,15,2,0,0,LOOSE
-E0,Burnley,2,2,11,0,5,2,1,0,WIN
-E0,Cardiff,0,0,3,0,12,3,3,0,DRAW
-E0,Chelsea,2,1,10,6,6,8,1,0,WIN
-E0,Crystal Palace,1,1,15,6,11,7,1,0,LOOSE
-E0,Leicester,1,0,23,6,7,10,2,0,LOOSE
-E0,West Ham,1,0,11,3,7,7,0,0,WIN
-E0,Everton,2,0,15,3,17,5,5,0,WIN
-E0,Tottenham,0,0,21,11,8,7,1,0,LOOSE
-E0,Man City,3,2,24,9,6,12,1,0,WIN
-E0,Arsenal,2,2,13,5,13,5,0,0,WIN
-E0,Bournemouth,2,0,10,4,6,2,0,0,WIN
-E0,Liverpool,4,0,19,9,6,8,0,1,WIN
-E0,Man United,2,2,20,5,11,6,1,0,WIN
-E0,Newcastle,3,1,16,6,11,7,0,0,WIN
-E0,Southampton,2,0,11,4,12,7,2,0,WIN
-E0,Watford,0,0,9,4,14,1,1,0,DRAW
-E0,Wolves,4,2,12,7,11,5,3,0,WIN
-E0,Fulham,1,1,12,4,10,7,2,0,LOOSE
-E0,Huddersfield,0,0,5,2,10,1,2,0,LOOSE
-E0,Arsenal,2,0,15,4,14,4,3,0,WIN
-E0,Fulham,4,0,24,7,10,10,2,0,WIN
-E0,Huddersfield,0,0,10,2,13,3,1,0,LOOSE
-E0,Man United,2,0,28,9,10,11,1,0,DRAW
-E0,Newcastle,2,0,6,2,9,1,2,0,WIN
-E0,Wolves,3,0,20,9,8,5,4,0,WIN
-E0,Bournemouth,4,0,12,7,8,3,1,0,WIN
-E0,Liverpool,1,1,10,3,13,7,1,0,DRAW
-E0,Southampton,1,0,13,4,11,3,2,0,DRAW
-E0,Tottenham,2,0,17,3,6,9,0,0,WIN
-E0,Brighton,0,0,21,4,15,7,1,0,DRAW
-E0,Burnley,1,0,15,6,10,4,3,0,DRAW
-E0,Cardiff,2,1,12,5,17,6,1,0,WIN
-E0,Chelsea,5,2,23,7,8,11,0,0,WIN
-E0,Crystal Palace,2,1,17,6,9,11,2,0,WIN
-E0,Everton,1,1,13,4,12,3,3,0,LOOSE
-E0,Tottenham,1,0,21,4,6,6,0,0,WIN
-E0,Leicester,0,0,17,6,14,7,4,0,LOOSE
-E0,Man City,3,2,19,12,11,4,1,0,WIN
-E0,West Ham,1,1,13,2,9,2,1,0,DRAW
-E0,Everton,0,0,4,1,12,5,1,0,LOOSE
-E0,Brighton,1,0,16,6,8,9,1,0,LOOSE
-E0,Crystal Palace,1,0,25,5,12,10,3,0,DRAW
-E0,Fulham,0,0,15,3,14,5,3,0,LOOSE
-E0,Huddersfield,1,0,15,6,17,5,3,0,LOOSE
-E0,Liverpool,3,2,20,9,14,8,2,0,WIN
-E0,Southampton,1,0,14,7,15,8,3,0,LOOSE
-E0,Watford,1,0,7,2,21,8,2,0,WIN
-E0,Man City,6,4,15,9,9,2,1,0,WIN
-E0,Tottenham,3,1,12,5,11,2,3,0,WIN
-E0,Wolves,1,0,22,6,7,13,1,0,DRAW
-E0,Cardiff,1,0,15,6,10,3,1,0,LOOSE
-E0,West Ham,3,2,21,7,11,12,1,0,WIN
-E0,Bournemouth,1,1,10,3,10,9,4,0,DRAW
-E0,Burnley,2,0,10,4,9,7,1,0,WIN
-E0,Leicester,1,0,27,5,7,8,2,0,LOOSE
-E0,Newcastle,2,0,29,12,11,12,2,0,WIN
-E0,Arsenal,2,2,12,4,7,6,0,0,WIN
-E0,Man United,0,0,6,3,15,3,1,0,DRAW
-E0,Cardiff,0,0,6,0,12,3,3,0,LOOSE
-E0,Huddersfield,1,0,15,3,10,3,2,0,WIN
-E0,Leicester,2,1,19,3,6,4,1,0,WIN
-E0,Newcastle,2,2,12,3,8,4,1,0,WIN
-E0,Arsenal,5,2,16,6,11,9,2,0,WIN
-E0,Chelsea,2,0,11,1,7,2,1,0,WIN
-E0,Crystal Palace,1,0,17,2,8,5,2,0,LOOSE
-E0,Liverpool,5,2,19,10,5,6,0,0,WIN
-E0,Man City,1,0,20,7,2,12,0,0,WIN
-E0,Southampton,2,2,14,4,15,7,0,0,WIN
-E0,Bournemouth,0,0,0,0,7,0,1,0,LOOSE
-E0,Brighton,1,0,13,4,11,6,2,0,WIN
-E0,Burnley,1,0,18,4,9,8,1,0,LOOSE
-E0,Man United,3,0,16,6,7,9,2,0,WIN
-E0,Tottenham,1,0,10,3,15,3,3,0,DRAW
-E0,West Ham,2,2,10,4,8,1,3,0,WIN
-E0,Wolves,2,2,13,6,11,7,1,0,WIN
-E0,Everton,0,0,7,3,12,3,1,0,DRAW
-E0,Fulham,1,1,12,5,11,5,2,0,LOOSE
-E0,Watford,2,1,6,5,15,1,5,0,WIN
-E0,Cardiff,2,1,16,7,7,7,2,0,WIN
-E0,Crystal Palace,1,0,15,3,8,8,1,0,LOOSE
-E0,Huddersfield,0,0,8,1,14,6,3,0,LOOSE
-E0,Leicester,3,1,18,8,9,6,0,0,WIN
-E0,Man City,3,0,19,9,11,9,1,0,WIN
-E0,Newcastle,3,0,19,7,13,8,3,0,WIN
-E0,Southampton,2,0,12,4,16,1,4,0,WIN
-E0,Arsenal,2,1,14,3,12,5,2,0,WIN
-E0,Chelsea,1,0,22,6,8,13,1,0,DRAW
-E0,Liverpool,4,2,23,5,4,7,2,0,WIN
-E0,Bournemouth,2,0,10,3,9,6,3,0,DRAW
-E0,Burnley,1,1,13,2,9,9,1,0,LOOSE
-E0,West Ham,4,1,16,5,7,5,0,0,WIN
-E0,Everton,2,0,15,8,17,3,1,0,WIN
-E0,Fulham,1,0,7,2,11,1,2,0,LOOSE
-E0,Brighton,0,0,14,1,8,6,1,0,LOOSE
-E0,Burnley,2,1,5,1,12,1,1,0,WIN
-E0,Crystal Palace,2,0,19,5,10,5,0,0,WIN
-E0,Fulham,0,0,5,0,4,0,2,0,LOOSE
-E0,Leicester,2,1,18,4,6,6,0,0,WIN
-E0,Man United,2,1,8,5,14,3,1,0,WIN
-E0,West Ham,0,0,3,1,7,4,1,0,LOOSE
-E0,Cardiff,1,0,8,3,8,2,2,0,LOOSE
-E0,Liverpool,2,1,14,3,5,10,0,0,WIN
-E0,Arsenal,2,1,7,4,11,6,2,0,WIN
-E0,Watford,4,1,15,7,12,6,3,0,WIN
-E0,Wolves,2,1,9,2,5,3,1,0,WIN
-E0,Chelsea,3,1,17,4,5,7,0,0,WIN
-E0,Man City,2,2,27,11,3,7,0,0,WIN
-E0,Tottenham,2,0,26,10,8,8,1,0,WIN
-E0,Southampton,1,1,11,1,8,7,2,0,LOOSE
-E0,Bournemouth,1,1,10,2,12,3,2,0,LOOSE
-E0,Huddersfield,1,0,10,4,13,8,3,0,LOOSE
-E0,Newcastle,0,0,18,5,12,9,1,0,LOOSE
-E0,Everton,1,1,23,6,8,9,1,0,WIN
-E0,Chelsea,2,1,16,7,8,7,2,0,WIN
-E0,Leicester,0,0,12,5,6,2,2,0,LOOSE
-E0,Brighton,0,0,8,1,10,4,2,1,LOOSE
-E0,Burnley,2,1,14,7,7,8,2,0,WIN
-E0,Fulham,2,0,12,5,8,7,2,0,WIN
-E0,Man United,2,1,14,4,14,3,1,0,WIN
-E0,Southampton,3,2,13,6,13,4,1,0,WIN
-E0,Tottenham,4,2,22,5,10,4,2,0,WIN
-E0,Crystal Palace,1,0,7,3,5,2,0,0,LOOSE
-E0,Liverpool,2,0,15,7,5,9,0,0,WIN
-E0,Watford,0,0,11,3,12,6,2,1,LOOSE
-E0,Brighton,0,0,14,2,11,5,0,0,LOOSE
-E0,Bournemouth,0,0,15,5,11,3,1,0,LOOSE
-E0,Huddersfield,1,0,13,3,15,2,2,0,LOOSE
-E0,Man City,1,1,15,4,11,4,1,0,WIN
-E0,Newcastle,3,2,15,6,5,4,0,0,WIN
-E0,West Ham,2,1,11,3,8,6,2,0,DRAW
-E0,Wolves,0,0,22,5,0,14,0,0,DRAW
-E0,Arsenal,2,0,12,5,15,8,4,0,LOOSE
-E0,Cardiff,0,0,7,2,6,5,1,0,LOOSE
-E0,Everton,4,2,15,8,11,10,1,0,WIN
-E0,Chelsea,2,2,22,9,9,10,2,0,DRAW
-E0,Tottenham,1,0,29,5,7,6,1,0,WIN
-E0,Watford,1,0,15,4,10,3,5,0,DRAW
-E0,Man United,0,0,12,1,10,1,2,0,LOOSE
-E0,Wolves,3,3,11,3,12,5,2,0,WIN
-E0,Liverpool,5,3,21,7,5,4,0,0,WIN
-E0,Brighton,1,0,9,2,7,7,2,0,DRAW
-E0,Crystal Palace,0,0,8,0,9,5,2,0,DRAW
-E0,Fulham,1,0,8,2,10,10,0,0,WIN
-E0,Southampton,3,1,22,7,8,9,2,0,DRAW
-E0,Tottenham,0,0,14,4,3,2,0,0,LOOSE
-E0,Watford,1,0,10,1,10,4,3,0,LOOSE
-E0,Burnley,0,0,2,0,5,0,1,0,LOOSE
-E0,Leicester,3,0,24,12,13,8,3,0,WIN
-E0,Man United,1,1,7,5,9,6,3,0,DRAW
-E0,Everton,2,2,20,6,8,8,0,0,WIN
-E0,Bournemouth,1,0,20,6,11,10,1,0,WIN
-E0,Cardiff,2,1,18,8,14,10,0,0,LOOSE
-E0,Newcastle,2,1,14,7,10,2,1,0,LOOSE
-E0,West Ham,3,1,17,6,2,2,1,0,WIN
-E0,Wolves,1,0,19,6,10,7,1,0,WIN
-E0,Arsenal,1,1,20,8,9,16,5,0,DRAW
-E0,Chelsea,3,0,19,9,6,6,0,0,WIN
-E0,Huddersfield,1,0,7,3,10,3,1,0,DRAW
-E0,Man City,1,0,19,5,12,11,3,0,WIN
-E0,Brighton,1,1,6,2,12,2,0,0,LOOSE
-E0,Burnley,1,0,14,5,11,4,5,0,LOOSE
-E0,Crystal Palace,5,3,17,8,11,4,3,0,WIN
-E0,Fulham,0,0,16,2,6,5,1,0,LOOSE
-E0,Leicester,0,0,9,3,9,4,0,0,DRAW
-E0,Liverpool,2,1,13,5,3,4,0,0,WIN
-E0,Man United,0,0,26,10,9,11,3,0,LOOSE
-E0,Southampton,1,1,10,3,8,4,0,0,DRAW
-E0,Tottenham,2,1,11,3,10,7,0,0,DRAW
-E0,Watford,1,0,17,8,10,7,1,1,LOOSE
-E0,Leicester,1,0,13,4,8,5,1,0,LOOSE
-E0,Cardiff,0,0,10,1,9,4,1,0,LOOSE
-E0,Crystal Palace,2,1,10,9,11,5,2,0,LOOSE
-E0,Chelsea,3,2,13,4,8,5,1,0,LOOSE
-E0,Tottenham,2,2,15,5,12,5,2,0,LOOSE
-E0,Brighton,0,0,6,0,16,2,2,0,LOOSE
-E0,Everton,2,1,6,5,7,6,1,1,DRAW
-E0,Man City,2,1,17,8,14,9,2,0,LOOSE
-E0,West Ham,0,0,5,2,9,4,2,0,LOOSE
-E0,Burnley,0,0,16,6,9,5,1,0,DRAW
-E0,Newcastle,0,0,12,6,16,5,2,1,DRAW
-E0,Arsenal,2,2,15,6,9,1,2,0,LOOSE
-E0,Southampton,1,0,15,4,20,5,5,0,LOOSE
-E0,Wolves,0,0,11,3,8,9,1,0,LOOSE
-E0,Fulham,1,0,10,3,5,2,0,0,LOOSE
-E0,Bournemouth,2,0,12,5,10,4,2,0,LOOSE
-E0,Man United,2,1,9,3,13,5,1,0,LOOSE
-E0,Watford,3,1,9,6,19,2,2,0,LOOSE
-E0,Huddersfield,1,1,5,1,4,3,2,0,LOOSE
-E0,Liverpool,2,1,16,6,13,7,1,0,LOOSE
-E0,West Ham,1,1,13,5,13,2,3,0,LOOSE
-E0,Everton,2,0,11,3,10,2,3,1,DRAW
-E0,Cardiff,0,0,14,4,10,7,1,0,DRAW
-E0,Brighton,0,0,6,2,14,5,1,0,LOOSE
-E0,Leicester,2,0,8,5,11,3,1,0,LOOSE
-E0,Man City,1,0,18,6,8,9,2,0,DRAW
-E0,Burnley,2,2,12,2,8,4,1,0,LOOSE
-E0,Chelsea,2,0,15,3,8,5,1,0,LOOSE
-E0,Crystal Palace,1,0,9,3,11,3,2,0,LOOSE
-E0,Tottenham,3,0,9,5,16,2,4,0,LOOSE
-E0,Fulham,2,1,10,5,14,1,3,0,DRAW
-E0,Bournemouth,0,0,8,1,7,6,2,0,LOOSE
-E0,Southampton,2,0,19,6,12,4,1,0,LOOSE
-E0,Huddersfield,1,1,9,6,14,3,3,0,DRAW
-E0,Liverpool,2,2,10,4,12,4,2,0,LOOSE
-E0,Newcastle,1,1,3,2,13,0,0,0,LOOSE
-E0,Wolves,1,0,15,6,11,4,1,0,LOOSE
-E0,Man United,2,2,21,9,13,5,3,1,LOOSE
-E0,Arsenal,3,1,17,11,14,9,4,0,LOOSE
-E0,Tottenham,1,0,11,2,8,10,1,0,LOOSE
-E0,Leicester,2,0,14,8,15,6,2,1,LOOSE
-E0,Cardiff,1,1,6,2,10,4,0,0,LOOSE
-E0,Crystal Palace,1,1,7,2,17,3,2,0,LOOSE
-E0,Fulham,0,0,9,3,7,4,0,0,LOOSE
-E0,Arsenal,2,0,12,2,11,4,0,0,LOOSE
-E0,Liverpool,2,1,17,10,16,4,0,0,LOOSE
-E0,Man United,2,2,9,6,11,8,1,1,LOOSE
-E0,West Ham,3,2,9,4,12,2,5,0,LOOSE
-E0,Burnley,0,0,7,2,9,2,4,0,LOOSE
-E0,Brighton,2,0,12,4,13,4,3,0,DRAW
-E0,Tottenham,2,1,16,7,9,7,1,0,LOOSE
-E0,Bournemouth,0,0,19,5,6,8,0,0,LOOSE
-E0,Man City,5,3,21,10,4,9,1,0,LOOSE
-E0,Newcastle,0,0,6,3,11,5,1,0,DRAW
-E0,Watford,1,1,11,6,9,8,1,0,DRAW
-E0,Huddersfield,1,1,9,2,16,1,1,0,LOOSE
-E0,Southampton,0,0,7,1,10,4,2,0,LOOSE
-E0,Wolves,1,0,11,8,17,4,1,0,DRAW
-E0,Everton,0,0,9,6,12,9,1,0,LOOSE
-E0,Chelsea,0,0,17,6,9,8,1,0,DRAW
-E0,Watford,0,0,13,4,17,6,2,0,LOOSE
-E0,Liverpool,1,0,13,6,9,4,2,0,DRAW
-E0,Fulham,0,0,6,0,13,1,3,0,LOOSE
-E0,Tottenham,2,2,10,6,16,0,2,0,LOOSE
-E0,Brighton,0,0,4,1,10,3,3,0,LOOSE
-E0,Leicester,2,1,12,5,5,9,0,0,LOOSE
-E0,Man United,1,0,9,4,12,9,1,0,LOOSE
-E0,Southampton,0,0,17,6,7,6,1,0,LOOSE
-E0,Burnley,2,0,3,2,15,2,3,0,LOOSE
-E0,Crystal Palace,1,0,10,2,12,3,4,0,LOOSE
-E0,West Ham,0,0,17,4,8,9,2,0,LOOSE
-E0,Huddersfield,1,0,19,2,11,10,2,0,DRAW
-E0,Wolves,1,0,7,2,13,3,4,0,LOOSE
-E0,Everton,2,1,17,8,11,10,1,0,LOOSE
-E0,Newcastle,2,2,13,8,8,6,2,0,LOOSE
-E0,Cardiff,0,0,8,6,11,2,1,1,LOOSE
-E0,Bournemouth,4,3,10,7,9,7,1,0,LOOSE
-E0,Arsenal,5,1,9,7,12,2,0,0,LOOSE
-E0,Man City,0,0,6,2,10,6,3,0,DRAW
-E0,Chelsea,3,1,21,6,11,12,0,0,LOOSE
-E0,Southampton,0,0,8,4,14,4,2,0,DRAW
-E0,Fulham,2,2,9,4,16,4,3,0,LOOSE
-E0,Man United,2,0,7,4,17,3,5,0,DRAW
-E0,Liverpool,1,1,11,2,6,4,2,0,LOOSE
-E0,Burnley,0,0,5,0,5,1,2,0,LOOSE
-E0,Brighton,1,1,8,2,17,2,2,0,LOOSE
-E0,Tottenham,1,1,10,2,10,6,0,0,LOOSE
-E0,Watford,2,2,9,3,13,2,1,0,LOOSE
-E0,Crystal Palace,0,0,7,3,17,5,1,0,LOOSE
-E0,Leicester,1,1,8,2,10,4,2,0,LOOSE
-E0,Wolves,0,0,25,7,8,10,0,0,LOOSE
-E0,Bournemouth,3,1,12,5,3,5,1,0,LOOSE
-E0,West Ham,1,1,11,3,5,0,1,1,DRAW
-E0,Cardiff,1,0,2,1,4,0,0,0,LOOSE
-E0,Newcastle,0,0,6,0,12,2,1,0,DRAW
-E0,Huddersfield,0,0,13,7,13,3,2,0,LOOSE
-E0,Chelsea,4,1,24,8,10,4,2,0,LOOSE
-E0,Arsenal,2,0,7,2,16,4,2,0,DRAW
-E0,Everton,1,0,14,6,12,4,1,0,LOOSE
-E0,Man City,1,1,13,6,13,6,2,0,LOOSE
-E0,Liverpool,1,0,13,4,7,8,1,0,DRAW
-E0,Man United,2,1,18,8,12,5,3,0,LOOSE
-E0,Leicester,1,0,13,5,12,12,2,0,LOOSE
-E0,Brighton,1,1,5,3,17,4,1,0,LOOSE
-E0,Watford,0,0,16,1,11,9,5,0,LOOSE
-E0,Burnley,2,1,6,3,9,4,4,0,LOOSE
-E0,Tottenham,3,2,10,8,8,1,2,0,LOOSE
-E0,Crystal Palace,1,0,7,2,13,2,1,0,LOOSE
-E0,Southampton,1,1,12,6,9,4,1,0,LOOSE
-E0,Fulham,0,0,7,1,8,4,2,0,LOOSE
-E0,Brighton,1,1,7,3,21,1,1,1,LOOSE
-E0,Tottenham,1,0,11,2,9,6,1,0,LOOSE
-E0,West Ham,1,0,12,5,8,6,1,0,DRAW
-E0,Burnley,0,0,6,1,10,1,0,0,DRAW
-E0,Bournemouth,1,1,14,4,11,10,1,0,LOOSE
-E0,Watford,1,0,12,6,13,6,2,0,DRAW
-E0,Wolves,1,1,12,5,16,2,2,0,DRAW
-E0,Everton,0,0,6,1,11,5,3,0,DRAW
-E0,Fulham,0,0,8,3,9,3,1,0,LOOSE
-E0,Man United,1,0,6,1,12,1,1,0,LOOSE
-E0,Leicester,1,0,8,3,7,1,1,1,DRAW
-E0,Cardiff,0,0,7,1,13,3,3,0,LOOSE
-E0,Southampton,2,1,19,8,6,5,3,0,LOOSE
-E0,Crystal Palace,0,0,13,2,12,3,2,0,DRAW
-E0,Chelsea,1,0,13,2,12,4,3,0,LOOSE
-E0,Liverpool,3,0,10,7,13,5,0,1,LOOSE
-E0,Man City,4,3,9,6,3,1,0,0,LOOSE
-E0,Arsenal,2,1,20,4,9,8,1,0,LOOSE
-E0,Huddersfield,2,1,14,6,8,5,2,0,LOOSE
-E0,Newcastle,2,2,17,3,11,5,1,0,LOOSE
-E0,Wolves,1,1,15,4,12,6,2,0,LOOSE
-E0,Burnley,0,0,4,0,10,2,1,0,LOOSE
-E0,Brighton,2,1,14,6,12,6,2,0,LOOSE
-E0,Watford,0,0,8,0,6,8,1,1,LOOSE
-E0,Bournemouth,1,1,4,1,3,4,0,0,LOOSE
-E0,West Ham,3,1,7,4,10,3,3,0,LOOSE
-E0,Man United,2,2,11,5,13,5,4,0,DRAW
-E0,Tottenham,2,2,11,6,17,5,3,1,LOOSE
-E0,Fulham,0,0,9,4,17,6,1,0,LOOSE
-E0,Everton,0,0,9,3,7,1,2,0,LOOSE
-E0,Huddersfield,1,1,23,6,11,8,2,0,LOOSE
-E0,Crystal Palace,1,0,18,5,12,5,3,0,LOOSE
-E0,Man City,2,1,15,7,8,11,1,0,LOOSE
-E0,Cardiff,1,0,9,5,10,4,2,0,LOOSE
-E0,Liverpool,3,0,18,12,3,9,0,0,LOOSE
-E0,Newcastle,1,1,8,5,18,2,5,0,DRAW
-E0,Leicester,1,0,13,5,7,8,0,0,DRAW
-E0,Arsenal,2,1,9,4,10,4,3,0,DRAW
-E0,Southampton,1,0,18,5,5,6,0,0,LOOSE
-E0,Chelsea,1,1,17,3,10,5,4,0,LOOSE
-E0,Huddersfield,0,0,6,0,20,1,4,0,LOOSE
-E0,Liverpool,4,1,10,4,11,6,1,0,LOOSE
-E0,Brighton,0,0,14,1,11,7,0,0,LOOSE
-E0,Southampton,0,0,12,1,10,7,2,0,LOOSE
-E0,Man City,0,0,14,4,11,13,0,0,LOOSE
-E0,Tottenham,2,1,7,2,7,5,1,0,LOOSE
-E0,Fulham,1,0,10,4,15,3,1,1,LOOSE
-E0,Crystal Palace,2,1,8,4,8,3,2,0,LOOSE
-E0,Wolves,2,1,13,6,17,6,5,0,LOOSE
-E0,Watford,2,0,15,3,13,6,1,0,DRAW
-E0,Leicester,0,0,12,2,8,4,1,0,LOOSE
-E0,West Ham,2,2,6,3,10,4,1,0,LOOSE
-E0,Newcastle,1,0,8,5,13,1,1,0,LOOSE
-E0,Everton,1,0,9,2,9,2,2,0,LOOSE
-E0,Burnley,0,0,4,0,8,3,2,0,LOOSE
-E0,Cardiff,2,0,10,3,5,0,0,0,LOOSE
-E0,Bournemouth,0,0,13,3,7,3,2,0,LOOSE
-E0,Chelsea,2,2,10,3,6,1,2,0,LOOSE
-E0,Man United,1,1,6,2,14,2,2,0,LOOSE
-E0,Arsenal,2,1,13,4,10,5,1,0,LOOSE
-E0,Liverpool,2,1,15,6,3,10,0,0,LOOSE
-E0,Burnley,1,0,7,2,14,3,5,0,LOOSE
-E0,Brighton,0,0,10,5,18,5,0,1,LOOSE
-E0,Man United,5,3,17,9,13,7,1,0,LOOSE
-E0,Leicester,1,0,8,3,9,5,2,0,LOOSE
-E0,Southampton,3,2,13,6,9,2,3,0,LOOSE
-E0,Crystal Palace,3,2,5,3,6,0,4,0,LOOSE
-E0,Fulham,0,0,4,2,12,0,2,0,DRAW
-E0,Watford,2,1,11,5,11,4,2,0,LOOSE
-E0,Tottenham,6,3,17,8,9,1,2,0,LOOSE
-E0,Arsenal,1,1,7,4,4,9,1,0,DRAW
-E0,Everton,5,3,13,6,19,7,4,0,LOOSE
-E0,Cardiff,0,0,9,4,11,1,3,0,DRAW
-E0,Wolves,1,0,14,5,6,0,1,0,DRAW
-E0,Man City,1,1,11,4,8,7,2,1,LOOSE
-E0,Newcastle,0,0,6,2,9,2,0,0,LOOSE
-E0,Huddersfield,1,0,10,2,13,3,1,0,LOOSE
-E0,Bournemouth,0,0,14,4,8,4,1,0,LOOSE
-E0,Chelsea,2,1,10,4,5,4,0,0,LOOSE
-E0,West Ham,2,0,16,5,3,5,0,0,LOOSE
-E0,Everton,0,0,13,4,11,6,2,0,LOOSE
-E0,Huddersfield,0,0,9,5,10,3,1,0,LOOSE
-E0,Cardiff,1,0,12,3,16,4,2,0,LOOSE
-E0,Arsenal,1,1,8,2,13,3,2,0,LOOSE
-E0,Wolves,3,0,11,4,7,7,2,0,LOOSE
-E0,Newcastle,1,1,8,2,16,6,2,0,DRAW
-E0,West Ham,0,0,11,4,11,5,4,0,LOOSE
-E0,Chelsea,1,0,12,4,8,4,1,0,LOOSE
-E0,Bournemouth,1,1,7,3,7,5,0,0,LOOSE
-E0,Man City,3,3,14,6,10,8,3,0,LOOSE
-E0,Fulham,1,0,9,4,12,3,1,0,LOOSE
-E0,Tottenham,3,3,13,4,6,3,0,0,LOOSE
-E0,Leicester,1,0,8,4,8,5,1,0,LOOSE
-E0,Watford,3,3,11,3,15,2,4,0,DRAW
-E0,Southampton,0,0,6,2,11,2,2,0,DRAW
-E0,Burnley,2,1,16,8,9,2,4,1,LOOSE
-E0,Man United,2,0,16,7,9,2,2,0,LOOSE
-E0,Brighton,2,0,13,6,11,5,1,0,DRAW
-E0,Crystal Palace,2,0,17,4,7,10,1,0,LOOSE
-E0,Liverpool,1,0,7,5,7,1,2,0,LOOSE
-E0,Liverpool,1,0,10,3,5,7,0,0,LOOSE
-E0,Fulham,1,1,12,4,9,6,2,0,LOOSE
-E0,Huddersfield,0,0,14,2,14,10,1,0,DRAW
-E0,Newcastle,1,1,9,2,13,5,1,0,LOOSE
-E0,Watford,2,0,16,2,11,7,4,0,LOOSE
-E0,Southampton,2,2,8,3,9,3,1,1,LOOSE
-E0,Arsenal,0,0,11,2,10,3,2,0,LOOSE
-E0,Bournemouth,0,0,16,7,8,9,0,0,LOOSE
-E0,Man United,1,1,13,8,8,4,2,0,LOOSE
-E0,Wolves,0,0,3,0,3,1,0,1,LOOSE
-E0,Chelsea,0,0,13,1,15,6,2,0,LOOSE
-E0,West Ham,0,0,9,1,10,3,1,0,LOOSE
-E0,Crystal Palace,3,1,9,3,8,3,1,0,LOOSE
-E0,Brighton,1,0,7,3,11,5,0,0,LOOSE
-E0,Cardiff,0,0,9,1,6,10,1,0,LOOSE
-E0,Everton,1,0,7,2,11,6,1,0,LOOSE
-E0,Burnley,0,0,11,3,9,7,2,0,DRAW
-E0,Leicester,3,0,16,6,10,9,3,0,LOOSE
-E0,Tottenham,2,0,14,5,8,10,3,0,LOOSE
-E0,Man City,3,1,12,4,9,4,2,0,LOOSE
-E0,Cardiff,1,0,19,2,12,7,3,0,LOOSE
-E0,Brighton,2,2,15,6,5,1,3,0,LOOSE
-E0,Everton,1,1,10,5,10,4,4,1,LOOSE
-E0,Burnley,2,0,6,4,9,3,3,0,DRAW
-E0,Man City,1,1,12,4,7,8,3,0,LOOSE
-E0,West Ham,0,0,4,0,10,1,1,0,LOOSE
-E0,Chelsea,0,0,11,7,6,7,0,0,LOOSE
-E0,Leicester,1,1,5,2,6,1,3,0,DRAW
-E0,Crystal Palace,1,1,15,3,8,8,2,1,DRAW
-E0,Watford,1,1,9,1,9,5,4,0,LOOSE
-E0,Watford,0,0,5,0,10,0,0,0,DRAW
-E0,Southampton,1,0,10,4,9,2,1,0,DRAW
-E0,Bournemouth,0,0,9,2,14,7,2,0,LOOSE
-E0,Huddersfield,0,0,5,2,5,2,0,0,LOOSE
-E0,Fulham,0,0,8,0,12,1,3,0,LOOSE
-E0,Wolves,3,2,8,4,14,1,1,0,LOOSE
-E0,Newcastle,0,0,8,2,6,3,1,0,LOOSE
-E0,Man United,1,1,10,6,9,2,4,0,LOOSE
-E0,Arsenal,1,1,4,2,8,2,1,0,LOOSE
-E0,Liverpool,1,1,11,6,11,5,1,0,DRAW
-E0,Man City,2,1,15,4,6,6,1,0,LOOSE
-E0,Burnley,3,1,9,5,7,3,1,0,LOOSE
-E0,West Ham,1,1,6,4,9,4,0,0,DRAW
-E0,Man United,3,2,15,7,9,4,2,0,LOOSE
-E0,Arsenal,2,2,9,4,12,0,2,0,LOOSE
-E0,Bournemouth,0,0,12,2,6,5,2,0,LOOSE
-E0,Cardiff,2,0,6,3,12,2,3,0,LOOSE
-E0,Everton,0,0,9,4,10,2,0,1,LOOSE
-E0,Chelsea,0,0,12,4,13,2,2,0,LOOSE
-E0,Leicester,1,0,20,9,4,9,1,0,LOOSE
-E0,Newcastle,1,0,9,3,9,1,3,0,DRAW
-E0,Watford,5,1,12,7,11,3,2,0,LOOSE
-E0,Fulham,1,1,8,5,11,0,1,0,LOOSE
-E0,Wolves,1,0,10,2,15,8,5,0,DRAW
-E0,Tottenham,1,0,17,6,12,6,3,0,LOOSE
-E0,Crystal Palace,4,1,7,5,14,3,1,0,LOOSE
-E0,Huddersfield,0,0,3,1,7,0,0,1,LOOSE
-E0,Southampton,0,0,10,4,14,4,0,0,LOOSE
-E0,Liverpool,0,0,7,1,17,7,3,0,DRAW
-E0,Everton,3,1,12,4,12,4,1,0,LOOSE
-E0,Wolves,0,0,7,0,10,5,2,0,LOOSE
-E0,Brighton,1,0,15,3,4,8,1,0,LOOSE
-E0,Burnley,0,0,12,2,8,7,3,0,LOOSE
-E0,Bournemouth,1,1,13,5,9,4,2,0,LOOSE
-E0,Tottenham,0,0,9,0,14,2,1,0,LOOSE
-E0,Man United,3,1,13,4,9,6,3,0,LOOSE
-E0,Watford,0,0,5,3,7,4,2,0,LOOSE
-E0,West Ham,0,0,2,1,6,2,2,0,LOOSE
-E0,Fulham,0,0,14,4,13,4,1,0,LOOSE
-E0,Man City,1,0,23,7,7,14,2,0,LOOSE
-E0,Huddersfield,0,0,6,4,6,3,2,0,LOOSE
-E0,Crystal Palace,3,1,10,4,9,5,2,0,LOOSE
-E0,Southampton,2,1,6,3,10,7,1,0,LOOSE
-E0,Arsenal,1,1,9,4,14,4,2,1,DRAW
-E0,Newcastle,0,0,17,2,14,6,4,0,LOOSE
-E0,Cardiff,0,0,12,4,6,8,2,0,LOOSE
-E0,Liverpool,0,0,10,3,10,7,2,0,DRAW
-E0,Chelsea,2,2,20,7,10,4,1,0,LOOSE
-E0,Leicester,1,0,14,2,12,5,1,0,LOOSE
-E0,West Ham,0,0,9,2,12,5,1,0,LOOSE
-E0,Brighton,2,1,4,3,18,0,5,0,LOOSE
-E0,Bournemouth,2,1,8,5,9,5,1,0,LOOSE
-E0,Fulham,1,0,6,3,13,5,2,0,LOOSE
-E0,Watford,1,0,2,1,7,1,1,0,LOOSE
-E0,Everton,2,2,7,3,10,2,1,0,LOOSE
-E0,Tottenham,1,1,16,5,9,10,2,0,LOOSE
-E0,Man United,0,0,14,4,18,2,2,0,LOOSE
-E0,Wolves,1,0,2,1,14,0,4,0,DRAW
-E0,Burnley,2,1,3,2,7,3,0,0,LOOSE
-E0,Newcastle,2,1,12,4,12,6,2,0,DRAW
-E0,Leicester,2,1,9,4,10,3,1,1,LOOSE
-E0,Huddersfield,3,2,15,5,15,8,2,0,LOOSE
-E0,Chelsea,0,0,16,5,9,4,2,0,LOOSE
-E0,Liverpool,2,1,16,6,7,10,1,0,LOOSE
-E0,Southampton,1,0,8,2,10,5,2,0,LOOSE
-E0,Wolves,0,0,8,1,10,5,1,0,LOOSE
-E0,Huddersfield,0,0,15,5,7,5,0,0,LOOSE
-E0,Man City,2,2,24,7,12,11,0,0,LOOSE
-E0,Bournemouth,0,0,8,2,12,1,2,0,LOOSE
-E0,Watford,1,0,20,8,9,5,2,0,LOOSE
-E0,Everton,2,2,17,9,14,9,1,0,LOOSE
-E0,Chelsea,2,0,21,3,14,7,3,0,LOOSE
-E0,Tottenham,1,0,11,2,8,3,1,0,LOOSE
-E0,Newcastle,0,0,3,1,10,2,0,0,LOOSE
-E0,Fulham,1,1,17,7,5,4,2,0,LOOSE
-E0,Man United,1,1,18,4,11,5,2,1,LOOSE
-E0,Brighton,0,0,3,1,9,1,0,0,LOOSE
-E0,Cardiff,0,0,4,1,17,4,3,0,LOOSE
-E0,Crystal Palace,0,0,5,1,5,2,0,0,LOOSE
-E0,Liverpool,3,1,17,5,7,5,4,0,LOOSE
-E0,Burnley,3,2,11,3,16,6,3,0,LOOSE
-E0,Leicester,4,1,18,9,11,5,0,0,LOOSE
-E0,Crystal Palace,1,0,3,1,13,4,2,0,LOOSE
-E0,Arsenal,0,0,7,2,9,6,4,0,LOOSE
-E0,West Ham,0,0,9,2,7,4,1,0,LOOSE
-E0,Newcastle,1,1,11,5,10,3,3,0,LOOSE
-E0,Bournemouth,5,1,14,7,6,1,4,0,LOOSE
-E0,Cardiff,0,0,14,2,10,4,3,0,LOOSE
-E0,Everton,0,0,8,1,10,3,1,0,LOOSE
-E0,West Ham,1,0,18,4,5,11,1,0,LOOSE
-E0,Wolves,1,1,17,2,8,9,3,0,LOOSE
-E0,Huddersfield,0,0,7,1,12,2,2,0,LOOSE
-E0,Man City,3,1,20,6,11,9,0,0,LOOSE
-E0,Chelsea,0,0,6,3,9,2,1,0,LOOSE
-E0,Arsenal,1,1,19,6,8,4,0,0,LOOSE
-E0,Cardiff,2,1,10,3,13,4,1,0,LOOSE
-E0,Fulham,1,0,17,5,18,7,3,0,LOOSE
-E0,Watford,2,1,11,6,9,2,2,0,LOOSE
-E0,Tottenham,0,0,10,4,11,4,2,0,LOOSE
-E0,Southampton,1,0,15,3,11,11,2,0,LOOSE
-E0,Leicester,2,0,11,5,9,8,0,0,DRAW
-E0,Brighton,0,0,5,0,8,1,1,0,DRAW
-E0,Crystal Palace,3,1,16,7,12,3,1,0,LOOSE
-E0,Liverpool,2,0,17,6,5,10,1,0,LOOSE
-E0,Man United,0,0,7,1,7,2,1,0,LOOSE
-E0,Burnley,2,2,6,3,4,1,1,0,DRAW
-E0,Brighton,0,0,6,1,13,3,2,0,LOOSE
-E0,Southampton,1,1,8,4,14,4,2,0,DRAW
-E0,Man City,2,0,8,5,10,1,2,0,LOOSE
-E0,Arsenal,1,0,11,1,9,5,3,0,LOOSE
-E0,Huddersfield,0,0,5,1,14,4,0,0,LOOSE
-E0,Newcastle,1,1,9,1,10,4,3,0,DRAW
-E0,Everton,0,0,22,3,15,10,0,0,DRAW
-E0,Cardiff,0,0,13,8,8,3,0,0,LOOSE
-E0,Bournemouth,3,2,9,5,9,3,1,0,DRAW
-E0,West Ham,1,0,16,7,8,7,2,0,LOOSE
-E0,Wolves,2,1,11,4,11,5,2,0,LOOSE
-E0,Man City,1,0,25,7,7,6,1,0,LOOSE
-E0,Arsenal,0,0,6,1,13,6,1,1,LOOSE
-E0,Chelsea,1,1,16,3,14,6,2,0,DRAW
-E0,Burnley,0,0,5,1,9,1,2,0,LOOSE
-E0,Tottenham,0,0,11,5,12,6,5,2,LOOSE
-E0,Crystal Palace,3,2,21,7,11,5,0,0,LOOSE
-E0,Liverpool,3,2,11,4,4,3,1,0,LOOSE
-E0,Southampton,0,0,11,1,11,7,1,0,LOOSE
-E0,Fulham,0,0,6,2,15,1,3,0,LOOSE
-E0,Brighton,1,0,11,5,14,3,2,0,DRAW
-E0,Watford,0,0,15,3,12,6,1,0,LOOSE
-E0,Man United,1,1,23,7,10,7,1,0,DRAW
-E0,Leicester,0,0,7,2,5,0,2,0,LOOSE
-E0,Man City,4,2,20,9,8,6,0,0,LOOSE
-E0,Arsenal,3,0,17,6,3,5,1,0,LOOSE
-E0,Bournemouth,3,1,16,8,8,4,0,0,LOOSE
-E0,Newcastle,4,2,13,6,8,5,0,0,LOOSE
-E0,Chelsea,0,0,14,4,8,5,1,0,DRAW
-E0,Wolves,0,0,7,2,11,1,2,0,LOOSE
-E0,Cardiff,2,1,13,4,6,2,3,0,LOOSE
-E0,Huddersfield,1,0,10,3,6,3,1,0,DRAW
-E0,Everton,2,0,17,9,13,4,2,0,DRAW
-E0,West Ham,4,2,16,9,10,2,0,0,LOOSE
+Div,Date,Team,Oponent,Oponent_FTG,FTG,FTR,Oponent_HTG,HTG,HTR,Referee,Oponent_S,S,Oponent_ST,ST,Oponent_F,F,Oponent_C,C,Oponent_Y,Y,Oponent_R,R,Venue
+E0,10/8/18,Man United,Leicester,1,2,WIN,0,1,WIN,A Marriner,13,8,4,6,8,11,5,2,1,2,0,0,HOME
+E0,11/8/18,Bournemouth,Cardiff,0,2,WIN,0,1,WIN,K Friend,10,12,1,4,9,11,4,7,1,1,0,0,HOME
+E0,11/8/18,Fulham,Crystal Palace,2,0,LOSE,1,0,LOSE,M Dean,10,15,9,6,11,9,5,5,2,1,0,0,HOME
+E0,11/8/18,Huddersfield,Chelsea,3,0,LOSE,2,0,LOSE,C Kavanagh,13,6,4,1,8,9,5,2,1,2,0,0,HOME
+E0,11/8/18,Newcastle,Tottenham,2,1,LOSE,2,1,LOSE,M Atkinson,15,15,5,2,12,11,5,3,2,2,0,0,HOME
+E0,11/8/18,Watford,Brighton,0,2,WIN,0,1,WIN,J Moss,6,19,0,5,16,10,2,8,2,2,0,0,HOME
+E0,11/8/18,Wolves,Everton,2,2,DRAW,1,1,DRAW,C Pawson,6,11,5,4,7,8,6,3,1,0,1,0,HOME
+E0,12/8/18,Arsenal,Man City,2,0,LOSE,1,0,LOSE,M Oliver,17,9,8,3,14,11,9,2,2,2,0,0,HOME
+E0,12/8/18,Liverpool,West Ham,0,4,WIN,0,2,WIN,A Taylor,5,18,2,8,9,14,4,5,2,1,0,0,HOME
+E0,12/8/18,Southampton,Burnley,0,0,DRAW,0,0,DRAW,G Scott,16,18,6,3,9,10,5,8,1,0,0,0,HOME
+E0,18/08/2018,Cardiff,Newcastle,0,0,DRAW,0,0,DRAW,C Pawson,12,12,6,1,16,14,5,5,2,2,1,0,HOME
+E0,18/08/2018,Chelsea,Arsenal,2,3,WIN,2,2,DRAW,M Atkinson,15,24,6,11,9,12,1,5,2,0,0,0,HOME
+E0,18/08/2018,Everton,Southampton,1,2,WIN,0,2,WIN,L Mason,15,13,4,7,20,8,5,2,5,0,0,0,HOME
+E0,18/08/2018,Leicester,Wolves,0,2,WIN,0,2,WIN,M Dean,11,6,3,2,8,10,9,1,1,2,0,1,HOME
+E0,18/08/2018,Tottenham,Fulham,1,3,WIN,0,1,WIN,A Taylor,10,25,3,11,5,9,2,5,0,0,0,0,HOME
+E0,18/08/2018,West Ham,Bournemouth,2,1,LOSE,0,1,WIN,S Attwell,12,11,5,5,10,14,4,6,2,6,0,0,HOME
+E0,19/08/2018,Brighton,Man United,2,3,WIN,1,3,WIN,K Friend,9,6,3,3,13,16,5,3,1,1,0,0,HOME
+E0,19/08/2018,Burnley,Watford,3,1,LOSE,1,1,DRAW,P Tierney,9,8,6,3,19,8,2,5,2,1,0,0,HOME
+E0,19/08/2018,Man City,Huddersfield,1,6,WIN,1,3,WIN,A Marriner,5,32,1,14,4,9,3,10,2,0,0,0,HOME
+E0,20/08/2018,Crystal Palace,Liverpool,2,0,LOSE,1,0,LOSE,M Oliver,16,8,6,2,13,6,7,6,1,1,0,1,HOME
+E0,25/08/2018,Arsenal,West Ham,1,3,WIN,1,1,DRAW,G Scott,13,17,5,10,13,16,2,10,3,1,0,0,HOME
+E0,25/08/2018,Bournemouth,Everton,2,2,DRAW,0,0,DRAW,L Probert,11,17,3,5,10,12,2,6,3,0,1,1,HOME
+E0,25/08/2018,Huddersfield,Cardiff,0,0,DRAW,0,0,DRAW,M Oliver,14,5,4,1,10,8,7,7,1,0,0,1,HOME
+E0,25/08/2018,Liverpool,Brighton,0,1,WIN,0,1,WIN,C Kavanagh,6,22,2,8,14,8,5,8,1,1,0,0,HOME
+E0,25/08/2018,Southampton,Leicester,2,1,LOSE,0,0,DRAW,J Moss,8,11,5,5,11,13,3,10,1,1,0,1,HOME
+E0,25/08/2018,Wolves,Man City,1,1,DRAW,0,0,DRAW,M Atkinson,18,11,6,2,8,13,9,5,2,1,0,0,HOME
+E0,26/08/2018,Fulham,Burnley,2,4,WIN,2,3,WIN,D Coote,12,25,2,12,8,11,4,6,1,2,0,0,HOME
+E0,26/08/2018,Newcastle,Chelsea,2,1,LOSE,0,0,DRAW,P Tierney,15,6,3,2,8,16,5,4,1,3,0,0,HOME
+E0,26/08/2018,Watford,Crystal Palace,1,2,WIN,0,0,DRAW,A Taylor,9,13,3,5,11,14,3,6,2,4,0,0,HOME
+E0,27/08/2018,Man United,Tottenham,3,0,LOSE,0,0,DRAW,C Pawson,9,23,5,5,16,11,2,5,4,2,0,0,HOME
+E0,1/9/18,Brighton,Fulham,2,2,DRAW,1,0,LOSE,L Probert,10,15,5,5,14,12,1,7,3,3,0,0,HOME
+E0,1/9/18,Chelsea,Bournemouth,0,2,WIN,0,0,DRAW,L Mason,8,24,1,6,7,10,6,7,2,2,0,0,HOME
+E0,1/9/18,Crystal Palace,Southampton,2,0,LOSE,0,0,DRAW,M Atkinson,19,20,6,6,12,11,4,7,1,1,0,0,HOME
+E0,1/9/18,Everton,Huddersfield,1,1,DRAW,1,1,DRAW,S Attwell,9,11,6,1,14,13,3,4,3,3,0,0,HOME
+E0,1/9/18,Leicester,Liverpool,2,1,LOSE,2,0,LOSE,P Tierney,10,12,4,5,12,9,4,4,2,3,0,0,HOME
+E0,1/9/18,Man City,Newcastle,1,2,WIN,1,1,DRAW,K Friend,3,24,2,8,13,5,0,4,0,0,0,0,HOME
+E0,1/9/18,West Ham,Wolves,1,0,LOSE,0,0,DRAW,C Kavanagh,15,13,6,3,11,10,4,4,1,2,0,0,HOME
+E0,2/9/18,Burnley,Man United,2,0,LOSE,2,0,LOSE,J Moss,21,9,9,2,13,7,5,2,3,2,1,0,HOME
+E0,2/9/18,Cardiff,Arsenal,3,2,LOSE,1,1,DRAW,A Taylor,17,14,11,3,14,12,9,3,4,3,0,0,HOME
+E0,2/9/18,Watford,Tottenham,1,2,WIN,0,0,DRAW,A Marriner,11,7,2,3,8,9,10,3,1,2,0,0,HOME
+E0,15/09/2018,Bournemouth,Leicester,2,4,WIN,0,3,WIN,C Pawson,14,10,8,5,15,13,6,4,2,3,1,0,HOME
+E0,15/09/2018,Chelsea,Cardiff,1,4,WIN,1,2,WIN,J Moss,6,18,2,7,10,8,4,5,0,0,0,0,HOME
+E0,15/09/2018,Huddersfield,Crystal Palace,1,0,LOSE,1,0,LOSE,L Mason,7,15,2,2,17,11,3,5,2,1,0,0,HOME
+E0,15/09/2018,Man City,Fulham,0,3,WIN,0,2,WIN,S Attwell,9,28,3,9,7,7,4,10,0,0,0,0,HOME
+E0,15/09/2018,Newcastle,Arsenal,2,1,LOSE,0,0,DRAW,L Probert,12,4,2,2,11,13,4,10,0,0,0,0,HOME
+E0,15/09/2018,Tottenham,Liverpool,2,1,LOSE,1,0,LOSE,M Oliver,17,11,10,3,16,17,4,5,0,0,0,0,HOME
+E0,15/09/2018,Watford,Man United,2,1,LOSE,2,0,LOSE,M Dean,9,14,6,5,11,9,8,6,1,2,1,0,HOME
+E0,16/09/2018,Everton,West Ham,3,1,LOSE,2,1,LOSE,M Atkinson,9,16,4,4,12,15,2,4,5,2,0,0,HOME
+E0,16/09/2018,Wolves,Burnley,0,1,WIN,0,0,DRAW,A Marriner,7,30,2,7,9,10,2,8,4,2,0,0,HOME
+E0,17/09/2018,Southampton,Brighton,2,2,DRAW,0,1,WIN,A Taylor,12,14,4,5,13,10,4,1,3,2,0,0,HOME
+E0,22/09/2018,Brighton,Tottenham,2,1,LOSE,1,0,LOSE,C Kavanagh,16,8,7,4,9,15,7,5,1,2,0,0,HOME
+E0,22/09/2018,Burnley,Bournemouth,0,4,WIN,0,2,WIN,A Taylor,19,12,5,5,6,17,8,3,0,2,0,0,HOME
+E0,22/09/2018,Cardiff,Man City,5,0,LOSE,3,0,LOSE,M Oliver,21,2,10,2,4,6,9,1,1,1,0,0,HOME
+E0,22/09/2018,Crystal Palace,Newcastle,0,0,DRAW,0,0,DRAW,A Marriner,6,16,3,4,11,8,5,9,1,1,0,0,HOME
+E0,22/09/2018,Fulham,Watford,1,1,DRAW,1,0,LOSE,M Atkinson,11,15,6,3,9,11,8,8,1,2,0,0,HOME
+E0,22/09/2018,Leicester,Huddersfield,1,3,WIN,1,1,DRAW,D Coote,9,18,2,8,16,10,1,3,1,2,0,0,HOME
+E0,22/09/2018,Liverpool,Southampton,0,3,WIN,0,3,WIN,P Tierney,7,12,1,4,10,7,4,5,2,0,0,0,HOME
+E0,22/09/2018,Man United,Wolves,1,1,DRAW,0,1,WIN,K Friend,11,15,8,6,17,5,4,5,1,1,0,0,HOME
+E0,23/09/2018,Arsenal,Everton,0,2,WIN,0,0,DRAW,J Moss,9,9,6,5,12,17,9,5,1,2,0,0,HOME
+E0,23/09/2018,West Ham,Chelsea,0,0,DRAW,0,0,DRAW,M Dean,17,6,6,1,9,11,8,1,1,2,0,0,HOME
+E0,29/09/2018,Arsenal,Watford,0,2,WIN,0,0,DRAW,A Taylor,13,9,4,2,17,11,6,6,2,2,0,0,HOME
+E0,29/09/2018,Chelsea,Liverpool,1,1,DRAW,0,1,WIN,A Marriner,13,10,6,4,9,7,4,4,2,0,0,0,HOME
+E0,29/09/2018,Everton,Fulham,0,3,WIN,0,0,DRAW,R East,6,19,0,6,13,13,1,12,3,0,0,0,HOME
+E0,29/09/2018,Huddersfield,Tottenham,2,0,LOSE,2,0,LOSE,C Pawson,10,9,6,5,16,17,0,3,2,2,0,0,HOME
+E0,29/09/2018,Man City,Brighton,0,2,WIN,0,1,WIN,L Mason,4,28,1,8,10,4,3,10,3,0,0,0,HOME
+E0,29/09/2018,Newcastle,Leicester,2,0,LOSE,1,0,LOSE,S Hooper,12,6,5,1,5,11,9,5,0,0,0,0,HOME
+E0,29/09/2018,West Ham,Man United,1,3,WIN,0,2,WIN,M Oliver,9,8,4,3,12,12,9,4,1,0,0,0,HOME
+E0,29/09/2018,Wolves,Southampton,0,2,WIN,0,0,DRAW,S Attwell,17,14,6,6,7,11,6,8,1,3,0,0,HOME
+E0,30/09/2018,Cardiff,Burnley,2,1,LOSE,0,0,DRAW,M Atkinson,3,19,2,5,15,11,2,10,3,1,0,0,HOME
+E0,1/10/18,Bournemouth,Crystal Palace,1,2,WIN,0,1,WIN,M Dean,10,11,2,5,12,9,3,3,4,3,0,0,HOME
+E0,5/10/18,Brighton,West Ham,0,1,WIN,0,1,WIN,K Friend,17,9,4,4,8,12,9,2,2,3,0,0,HOME
+E0,6/10/18,Burnley,Huddersfield,1,1,DRAW,0,1,WIN,C Kavanagh,19,6,2,3,11,8,10,1,2,2,0,0,HOME
+E0,6/10/18,Crystal Palace,Wolves,1,0,LOSE,0,0,DRAW,M Oliver,7,11,2,4,13,11,3,6,4,3,0,0,HOME
+E0,6/10/18,Leicester,Everton,2,1,LOSE,1,1,DRAW,A Marriner,17,8,8,2,11,10,10,2,1,2,0,1,HOME
+E0,6/10/18,Man United,Newcastle,2,3,WIN,2,0,LOSE,A Taylor,13,18,8,10,8,16,6,10,2,2,0,0,HOME
+E0,6/10/18,Tottenham,Cardiff,0,1,WIN,0,1,WIN,M Dean,8,19,6,7,11,7,2,6,1,2,1,0,HOME
+E0,6/10/18,Watford,Bournemouth,4,0,LOSE,3,0,LOSE,J Moss,10,14,7,2,9,11,7,10,1,3,0,1,HOME
+E0,7/10/18,Fulham,Arsenal,5,1,LOSE,1,1,DRAW,P Tierney,9,21,7,4,12,11,2,4,0,2,0,0,HOME
+E0,7/10/18,Liverpool,Man City,0,0,DRAW,0,0,DRAW,M Atkinson,6,7,2,2,10,10,6,2,3,1,0,0,HOME
+E0,7/10/18,Southampton,Chelsea,3,0,LOSE,1,0,LOSE,C Pawson,21,15,6,6,11,13,12,4,0,6,0,0,HOME
+E0,20/10/2018,Bournemouth,Southampton,0,0,DRAW,0,0,DRAW,L Probert,8,10,4,2,14,10,4,6,2,1,0,0,HOME
+E0,20/10/2018,Cardiff,Fulham,2,4,WIN,2,2,DRAW,K Friend,9,22,4,5,16,15,4,4,3,3,0,0,HOME
+E0,20/10/2018,Chelsea,Man United,2,2,DRAW,0,1,WIN,M Dean,7,21,4,6,17,9,3,5,5,2,0,0,HOME
+E0,20/10/2018,Huddersfield,Liverpool,1,0,LOSE,1,0,LOSE,M Oliver,11,13,2,1,6,9,4,2,2,0,0,0,HOME
+E0,20/10/2018,Man City,Burnley,0,5,WIN,0,1,WIN,J Moss,5,24,0,10,5,11,1,10,2,2,0,0,HOME
+E0,20/10/2018,Newcastle,Brighton,1,0,LOSE,1,0,LOSE,A Marriner,8,27,2,6,17,13,2,10,2,0,0,0,HOME
+E0,20/10/2018,West Ham,Tottenham,1,0,LOSE,1,0,LOSE,M Atkinson,10,13,2,4,10,8,6,10,0,3,0,0,HOME
+E0,20/10/2018,Wolves,Watford,2,0,LOSE,2,0,LOSE,L Mason,9,10,3,1,13,23,2,8,1,3,0,0,HOME
+E0,21/10/2018,Everton,Crystal Palace,0,2,WIN,0,0,DRAW,A Taylor,7,20,3,4,17,13,5,10,1,2,0,0,HOME
+E0,22/10/2018,Arsenal,Leicester,1,3,WIN,1,1,DRAW,C Kavanagh,8,19,2,6,10,10,4,6,2,2,0,0,HOME
+E0,27/10/2018,Brighton,Wolves,0,1,WIN,0,0,DRAW,A Taylor,25,2,7,1,8,11,10,1,0,3,0,0,HOME
+E0,27/10/2018,Fulham,Bournemouth,3,0,LOSE,1,0,LOSE,A Marriner,12,11,5,1,3,16,5,5,1,2,0,1,HOME
+E0,27/10/2018,Leicester,West Ham,1,1,DRAW,1,0,LOSE,M Oliver,11,21,3,7,5,17,0,8,1,1,1,0,HOME
+E0,27/10/2018,Liverpool,Cardiff,1,4,WIN,0,1,WIN,S Attwell,2,19,1,7,4,6,0,8,0,0,0,0,HOME
+E0,27/10/2018,Southampton,Newcastle,0,0,DRAW,0,0,DRAW,C Kavanagh,6,22,0,4,12,9,2,7,1,0,0,0,HOME
+E0,27/10/2018,Watford,Huddersfield,0,3,WIN,0,2,WIN,M Dean,13,12,7,6,13,9,3,3,2,1,0,0,HOME
+E0,28/10/2018,Burnley,Chelsea,4,0,LOSE,1,0,LOSE,C Pawson,24,7,8,1,10,14,4,4,2,4,0,0,HOME
+E0,28/10/2018,Crystal Palace,Arsenal,2,2,DRAW,0,1,WIN,M Atkinson,7,16,2,3,16,10,4,6,2,1,0,0,HOME
+E0,28/10/2018,Man United,Everton,1,2,WIN,0,1,WIN,J Moss,14,14,6,10,12,15,4,8,1,2,0,0,HOME
+E0,29/10/2018,Tottenham,Man City,1,0,LOSE,1,0,LOSE,K Friend,13,4,6,1,13,13,6,3,2,2,0,0,HOME
+E0,3/11/18,Arsenal,Liverpool,1,1,DRAW,0,0,DRAW,A Marriner,13,12,4,4,7,7,8,5,1,1,0,0,HOME
+E0,3/11/18,Bournemouth,Man United,2,1,LOSE,1,1,DRAW,P Tierney,18,18,8,7,12,12,5,9,3,4,0,0,HOME
+E0,3/11/18,Cardiff,Leicester,1,0,LOSE,0,0,DRAW,L Probert,13,11,5,2,12,13,12,6,2,2,0,0,HOME
+E0,3/11/18,Everton,Brighton,1,3,WIN,1,1,DRAW,D Coote,5,14,3,3,17,9,4,6,1,0,0,0,HOME
+E0,3/11/18,Newcastle,Watford,0,1,WIN,0,0,DRAW,C Pawson,16,10,1,2,11,12,9,8,5,1,0,0,HOME
+E0,3/11/18,West Ham,Burnley,2,4,WIN,1,1,DRAW,R East,6,22,3,10,9,7,4,10,4,1,0,0,HOME
+E0,3/11/18,Wolves,Tottenham,3,2,LOSE,2,0,LOSE,M Dean,10,16,8,7,8,11,1,5,2,1,0,0,HOME
+E0,4/11/18,Chelsea,Crystal Palace,1,3,WIN,0,1,WIN,M Oliver,7,15,2,6,13,6,2,4,1,0,0,0,HOME
+E0,4/11/18,Man City,Southampton,1,6,WIN,1,4,WIN,L Mason,12,18,6,8,9,14,4,4,1,1,0,0,HOME
+E0,5/11/18,Huddersfield,Fulham,0,1,WIN,0,1,WIN,A Taylor,7,10,1,2,8,11,4,5,2,1,0,0,HOME
+E0,10/11/18,Cardiff,Brighton,1,2,WIN,1,1,DRAW,M Atkinson,7,20,3,6,21,7,1,4,1,2,1,0,HOME
+E0,10/11/18,Crystal Palace,Tottenham,1,0,LOSE,0,0,DRAW,J Moss,11,11,2,4,9,12,6,10,1,1,0,0,HOME
+E0,10/11/18,Huddersfield,West Ham,1,1,DRAW,0,1,WIN,C Kavanagh,12,15,5,7,8,9,6,5,1,1,0,0,HOME
+E0,10/11/18,Leicester,Burnley,0,0,DRAW,0,0,DRAW,M Dean,6,22,1,5,10,13,1,12,0,2,0,0,HOME
+E0,10/11/18,Newcastle,Bournemouth,1,2,WIN,1,2,WIN,L Probert,14,18,4,6,11,9,10,7,1,2,0,0,HOME
+E0,10/11/18,Southampton,Watford,1,1,DRAW,0,1,WIN,S Hooper,12,14,6,4,13,13,6,7,2,3,0,0,HOME
+E0,11/11/18,Arsenal,Wolves,1,1,DRAW,1,0,LOSE,S Attwell,12,10,5,3,16,9,2,11,2,2,0,0,HOME
+E0,11/11/18,Chelsea,Everton,0,0,DRAW,0,0,DRAW,K Friend,6,15,1,4,11,7,5,5,3,4,0,0,HOME
+E0,11/11/18,Liverpool,Fulham,0,2,WIN,0,1,WIN,P Tierney,8,20,3,7,9,11,3,6,1,1,0,0,HOME
+E0,11/11/18,Man City,Man United,1,3,WIN,0,1,WIN,A Taylor,6,17,1,5,12,12,1,5,1,1,0,0,HOME
+E0,24/11/2018,Brighton,Leicester,1,1,DRAW,0,1,WIN,C Kavanagh,8,14,3,3,7,10,1,6,1,3,1,0,HOME
+E0,24/11/2018,Everton,Cardiff,0,1,WIN,0,0,DRAW,P Tierney,7,16,1,8,13,12,3,7,3,0,0,0,HOME
+E0,24/11/2018,Fulham,Southampton,2,3,WIN,1,2,WIN,M Oliver,19,10,8,5,6,10,5,2,3,2,0,0,HOME
+E0,24/11/2018,Man United,Crystal Palace,0,0,DRAW,0,0,DRAW,L Mason,13,12,2,5,12,13,3,10,2,1,0,0,HOME
+E0,24/11/2018,Tottenham,Chelsea,1,3,WIN,0,2,WIN,M Atkinson,13,18,2,9,12,19,4,4,3,0,0,0,HOME
+E0,24/11/2018,Watford,Liverpool,3,0,LOSE,0,0,DRAW,J Moss,10,5,7,1,13,12,5,5,0,0,1,0,HOME
+E0,24/11/2018,West Ham,Man City,4,0,LOSE,3,0,LOSE,A Marriner,9,9,6,1,3,6,1,8,0,0,0,0,HOME
+E0,25/11/2018,Bournemouth,Arsenal,2,1,LOSE,1,1,DRAW,C Pawson,20,11,4,5,9,6,8,5,1,2,0,0,HOME
+E0,25/11/2018,Wolves,Huddersfield,2,0,LOSE,1,0,LOSE,K Friend,14,12,6,3,8,9,5,3,2,1,0,0,HOME
+E0,26/11/2018,Burnley,Newcastle,2,1,LOSE,2,1,LOSE,A Taylor,17,14,3,4,11,6,5,5,1,0,0,0,HOME
+E0,30/11/2018,Cardiff,Wolves,1,2,WIN,1,0,LOSE,A Marriner,15,17,4,3,12,3,6,7,2,1,0,0,HOME
+E0,1/12/18,Crystal Palace,Burnley,0,2,WIN,0,1,WIN,L Probert,4,29,0,9,10,9,2,10,1,1,0,0,HOME
+E0,1/12/18,Huddersfield,Brighton,2,1,LOSE,1,1,DRAW,M Oliver,14,7,6,2,12,10,6,2,2,0,0,1,HOME
+E0,1/12/18,Leicester,Watford,0,2,WIN,0,2,WIN,G Scott,8,7,0,3,6,7,8,4,1,2,1,0,HOME
+E0,1/12/18,Man City,Bournemouth,1,3,WIN,1,1,DRAW,S Attwell,4,16,1,6,3,9,4,8,0,0,0,0,HOME
+E0,1/12/18,Newcastle,West Ham,3,0,LOSE,1,0,LOSE,P Tierney,7,16,4,4,10,10,3,7,3,3,0,0,HOME
+E0,1/12/18,Southampton,Man United,2,2,DRAW,2,2,DRAW,K Friend,11,16,5,6,13,12,5,3,4,4,0,0,HOME
+E0,2/12/18,Arsenal,Tottenham,2,4,WIN,2,1,LOSE,M Dean,11,22,6,7,17,15,5,8,3,3,1,0,HOME
+E0,2/12/18,Chelsea,Fulham,0,2,WIN,0,1,WIN,C Pawson,9,16,4,9,17,8,6,4,1,2,0,0,HOME
+E0,2/12/18,Liverpool,Everton,0,1,WIN,0,0,DRAW,C Kavanagh,9,16,3,3,7,12,1,8,2,3,0,0,HOME
+E0,4/12/18,Bournemouth,Huddersfield,1,2,WIN,1,2,WIN,R East,23,6,6,2,11,14,8,4,2,4,0,0,HOME
+E0,4/12/18,Brighton,Crystal Palace,1,3,WIN,0,3,WIN,K Friend,18,9,5,3,12,14,5,4,3,2,0,1,HOME
+E0,4/12/18,Watford,Man City,2,1,LOSE,1,0,LOSE,P Tierney,15,11,7,7,8,4,11,3,1,0,0,0,HOME
+E0,4/12/18,West Ham,Cardiff,1,3,WIN,0,0,DRAW,G Scott,9,17,5,11,10,10,4,10,2,1,0,0,HOME
+E0,5/12/18,Burnley,Liverpool,3,1,LOSE,0,0,DRAW,S Attwell,18,10,12,6,3,10,9,5,0,1,0,0,HOME
+E0,5/12/18,Everton,Newcastle,1,1,DRAW,1,1,DRAW,L Mason,8,19,5,3,18,7,2,14,5,0,0,0,HOME
+E0,5/12/18,Fulham,Leicester,1,1,DRAW,0,1,WIN,D Coote,13,25,5,7,7,12,8,10,0,0,0,0,HOME
+E0,5/12/18,Man United,Arsenal,2,2,DRAW,1,1,DRAW,A Marriner,9,10,4,7,10,13,4,4,3,3,0,0,HOME
+E0,5/12/18,Tottenham,Southampton,1,3,WIN,0,1,WIN,A Taylor,18,13,5,8,5,7,6,8,0,0,0,0,HOME
+E0,5/12/18,Wolves,Chelsea,1,2,WIN,1,0,LOSE,J Moss,17,6,3,2,10,18,5,1,4,4,0,0,HOME
+E0,8/12/18,Arsenal,Huddersfield,0,1,WIN,0,0,DRAW,P Tierney,6,14,0,2,20,13,1,7,4,5,0,0,HOME
+E0,8/12/18,Bournemouth,Liverpool,4,0,LOSE,1,0,LOSE,L Mason,10,8,4,2,11,9,6,6,1,2,0,0,HOME
+E0,8/12/18,Burnley,Brighton,0,1,WIN,0,1,WIN,M Atkinson,14,14,1,4,11,11,7,2,0,2,0,0,HOME
+E0,8/12/18,Cardiff,Southampton,0,1,WIN,0,0,DRAW,J Moss,12,13,1,4,10,9,7,7,2,2,0,0,HOME
+E0,8/12/18,Chelsea,Man City,0,2,WIN,0,1,WIN,M Oliver,14,8,4,5,11,12,13,1,0,2,0,0,HOME
+E0,8/12/18,Leicester,Tottenham,2,0,LOSE,1,0,LOSE,C Pawson,7,11,2,3,7,12,5,6,1,3,0,0,HOME
+E0,8/12/18,Man United,Fulham,1,4,WIN,0,3,WIN,L Probert,10,20,4,11,15,11,3,10,1,1,1,0,HOME
+E0,8/12/18,West Ham,Crystal Palace,2,3,WIN,1,0,LOSE,A Taylor,8,13,4,6,8,10,3,5,2,1,0,0,HOME
+E0,9/12/18,Newcastle,Wolves,2,1,LOSE,1,1,DRAW,M Dean,13,12,6,4,17,10,6,4,5,2,0,1,HOME
+E0,10/12/18,Everton,Watford,2,2,DRAW,0,1,WIN,K Friend,15,12,3,5,13,13,6,6,1,1,0,0,HOME
+E0,15/12/2018,Crystal Palace,Leicester,0,1,WIN,0,1,WIN,M Oliver,12,8,2,1,8,10,4,4,1,2,0,0,HOME
+E0,15/12/2018,Fulham,West Ham,2,0,LOSE,2,0,LOSE,M Dean,6,16,3,4,10,14,4,6,1,2,0,0,HOME
+E0,15/12/2018,Huddersfield,Newcastle,1,0,LOSE,0,0,DRAW,A Taylor,8,15,5,5,13,5,1,10,1,1,0,0,HOME
+E0,15/12/2018,Man City,Everton,1,3,WIN,0,1,WIN,C Pawson,9,13,2,5,9,7,2,6,2,1,0,0,HOME
+E0,15/12/2018,Tottenham,Burnley,0,1,WIN,0,0,DRAW,G Scott,4,15,0,3,8,7,3,8,2,0,0,0,HOME
+E0,15/12/2018,Watford,Cardiff,2,3,WIN,0,1,WIN,A Madley,10,17,3,8,5,7,0,5,0,0,0,0,HOME
+E0,15/12/2018,Wolves,Bournemouth,0,2,WIN,0,1,WIN,S Hooper,13,9,3,3,7,15,3,5,2,1,0,0,HOME
+E0,16/12/2018,Brighton,Chelsea,2,1,LOSE,2,0,LOSE,S Attwell,10,6,3,2,6,14,1,4,2,2,0,0,HOME
+E0,16/12/2018,Liverpool,Man United,1,3,WIN,1,1,DRAW,M Atkinson,6,36,2,11,14,6,2,13,2,0,0,0,HOME
+E0,16/12/2018,Southampton,Arsenal,2,3,WIN,1,2,WIN,C Kavanagh,13,12,4,7,10,12,5,4,1,3,0,0,HOME
+E0,21/12/2018,Wolves,Liverpool,2,0,LOSE,1,0,LOSE,C Pawson,15,11,6,5,3,7,10,1,0,0,0,0,HOME
+E0,22/12/2018,Arsenal,Burnley,1,3,WIN,0,1,WIN,K Friend,7,10,2,6,14,10,3,1,5,2,0,0,HOME
+E0,22/12/2018,Bournemouth,Brighton,0,2,WIN,0,1,WIN,M Dean,10,14,5,3,18,8,5,6,0,2,1,0,HOME
+E0,22/12/2018,Cardiff,Man United,5,1,LOSE,3,1,LOSE,M Oliver,17,9,9,3,13,13,7,4,1,2,0,0,HOME
+E0,22/12/2018,Chelsea,Leicester,1,0,LOSE,0,0,DRAW,L Probert,8,17,3,5,9,10,5,9,2,0,0,0,HOME
+E0,22/12/2018,Huddersfield,Southampton,3,1,LOSE,2,0,LOSE,S Attwell,13,16,6,5,9,12,2,8,3,2,0,0,HOME
+E0,22/12/2018,Man City,Crystal Palace,3,2,LOSE,2,1,LOSE,A Marriner,5,19,3,5,6,7,0,13,4,0,0,0,HOME
+E0,22/12/2018,Newcastle,Fulham,0,0,DRAW,0,0,DRAW,M Atkinson,4,9,2,0,12,9,0,6,2,1,0,0,HOME
+E0,22/12/2018,West Ham,Watford,2,0,LOSE,1,0,LOSE,L Mason,11,18,5,7,11,9,4,10,2,3,0,0,HOME
+E0,23/12/2018,Everton,Tottenham,6,2,LOSE,3,1,LOSE,P Tierney,17,10,8,3,9,13,1,2,2,0,0,0,HOME
+E0,26/12/2018,Brighton,Arsenal,1,1,DRAW,1,1,DRAW,A Taylor,7,12,4,3,4,10,9,4,1,2,0,0,HOME
+E0,26/12/2018,Burnley,Everton,5,1,LOSE,3,1,LOSE,M Oliver,13,11,6,4,19,11,7,5,4,2,0,0,HOME
+E0,26/12/2018,Crystal Palace,Cardiff,0,0,DRAW,0,0,DRAW,L Probert,9,31,4,5,11,9,1,12,3,0,0,0,HOME
+E0,26/12/2018,Fulham,Wolves,1,1,DRAW,0,0,DRAW,A Marriner,14,11,5,9,6,9,0,2,1,2,0,0,HOME
+E0,26/12/2018,Leicester,Man City,1,2,WIN,1,1,DRAW,M Dean,11,10,4,5,8,5,7,3,2,2,1,0,HOME
+E0,26/12/2018,Liverpool,Newcastle,0,4,WIN,0,1,WIN,G Scott,6,16,2,8,9,7,2,10,0,0,0,0,HOME
+E0,26/12/2018,Man United,Huddersfield,1,3,WIN,0,1,WIN,J Moss,10,16,2,10,13,9,3,5,1,1,0,0,HOME
+E0,26/12/2018,Tottenham,Bournemouth,0,5,WIN,0,3,WIN,C Kavanagh,14,10,4,7,8,4,4,3,1,2,0,0,HOME
+E0,26/12/2018,Watford,Chelsea,2,1,LOSE,1,1,DRAW,M Atkinson,10,10,4,2,5,15,4,3,0,1,0,0,HOME
+E0,27/12/2018,Southampton,West Ham,2,1,LOSE,0,0,DRAW,C Pawson,16,11,5,5,3,10,5,4,0,2,0,0,HOME
+E0,29/12/2018,Brighton,Everton,0,1,WIN,0,0,DRAW,A Madley,13,11,4,3,11,10,6,6,2,0,0,0,HOME
+E0,29/12/2018,Fulham,Huddersfield,0,1,WIN,0,0,DRAW,K Friend,9,14,5,5,10,12,3,4,1,3,0,0,HOME
+E0,29/12/2018,Leicester,Cardiff,1,0,LOSE,0,0,DRAW,S Hooper,12,16,3,7,16,14,4,10,2,0,0,0,HOME
+E0,29/12/2018,Liverpool,Arsenal,1,5,WIN,1,4,WIN,M Oliver,8,15,2,10,13,8,3,5,2,1,0,0,HOME
+E0,29/12/2018,Tottenham,Wolves,3,1,LOSE,0,1,WIN,S Attwell,11,10,4,3,7,7,7,6,2,3,0,0,HOME
+E0,29/12/2018,Watford,Newcastle,1,1,DRAW,1,0,LOSE,R East,8,12,2,5,16,17,6,3,2,1,0,0,HOME
+E0,30/12/2018,Burnley,West Ham,0,2,WIN,0,2,WIN,D Coote,11,17,4,5,11,15,5,5,4,1,0,0,HOME
+E0,30/12/2018,Crystal Palace,Chelsea,1,0,LOSE,0,0,DRAW,C Pawson,12,4,4,0,8,11,4,3,1,0,0,0,HOME
+E0,30/12/2018,Man United,Bournemouth,1,4,WIN,1,3,WIN,L Mason,7,11,3,8,7,10,5,4,0,2,0,1,HOME
+E0,30/12/2018,Southampton,Man City,3,1,LOSE,3,1,LOSE,P Tierney,14,5,6,4,10,11,8,3,3,2,0,1,HOME
+E0,1/1/19,Arsenal,Fulham,1,4,WIN,0,1,WIN,G Scott,9,16,4,9,12,7,3,8,1,0,0,0,HOME
+E0,1/1/19,Cardiff,Tottenham,3,0,LOSE,3,0,LOSE,K Friend,13,6,4,3,6,6,3,5,0,1,0,0,HOME
+E0,1/1/19,Everton,Leicester,1,0,LOSE,0,0,DRAW,M Atkinson,8,17,4,2,8,5,5,6,1,3,0,0,HOME
+E0,2/1/19,Bournemouth,Watford,3,3,DRAW,3,3,DRAW,D Coote,11,25,3,12,15,9,2,4,4,1,0,0,HOME
+E0,2/1/19,Chelsea,Southampton,0,0,DRAW,0,0,DRAW,J Moss,6,17,2,6,11,8,2,7,2,1,0,0,HOME
+E0,2/1/19,Huddersfield,Burnley,2,1,LOSE,1,1,DRAW,M Dean,16,9,8,2,9,11,2,5,4,0,1,1,HOME
+E0,2/1/19,Newcastle,Man United,2,0,LOSE,0,0,DRAW,A Marriner,16,14,7,3,9,10,2,1,2,1,0,0,HOME
+E0,2/1/19,West Ham,Brighton,2,2,DRAW,0,0,DRAW,C Kavanagh,13,13,6,6,11,9,5,1,1,0,0,0,HOME
+E0,2/1/19,Wolves,Crystal Palace,2,0,LOSE,0,0,DRAW,R East,17,9,4,1,7,9,10,3,1,4,0,0,HOME
+E0,3/1/19,Man City,Liverpool,1,2,WIN,0,1,WIN,A Taylor,7,9,5,4,7,12,1,2,2,4,0,0,HOME
+E0,12/1/19,Brighton,Liverpool,1,0,LOSE,0,0,DRAW,K Friend,10,7,3,0,5,15,7,2,0,0,0,0,HOME
+E0,12/1/19,Burnley,Fulham,1,2,WIN,1,2,WIN,M Atkinson,12,11,4,0,9,5,6,2,2,1,0,0,HOME
+E0,12/1/19,Cardiff,Huddersfield,0,0,DRAW,0,0,DRAW,L Mason,14,3,2,0,14,12,10,3,1,3,0,0,HOME
+E0,12/1/19,Chelsea,Newcastle,1,2,WIN,1,1,DRAW,C Kavanagh,9,10,2,6,13,6,5,8,1,1,0,0,HOME
+E0,12/1/19,Crystal Palace,Watford,2,1,LOSE,0,1,WIN,P Tierney,16,15,2,6,11,11,7,7,4,1,0,0,HOME
+E0,12/1/19,Leicester,Southampton,2,1,LOSE,2,0,LOSE,M Oliver,8,23,3,6,9,7,3,10,1,2,1,0,HOME
+E0,12/1/19,West Ham,Arsenal,0,1,WIN,0,0,DRAW,J Moss,11,11,2,3,10,7,3,7,2,0,0,0,HOME
+E0,13/01/2019,Everton,Bournemouth,0,2,WIN,0,0,DRAW,A Taylor,16,15,7,3,8,17,9,5,0,5,0,0,HOME
+E0,13/01/2019,Tottenham,Man United,1,0,LOSE,1,0,LOSE,M Dean,13,21,8,11,8,8,4,7,2,1,0,0,HOME
+E0,14/01/2019,Man City,Wolves,0,3,WIN,0,2,WIN,C Pawson,3,24,0,9,3,6,1,12,0,1,1,0,HOME
+E0,19/01/2019,Arsenal,Chelsea,0,2,WIN,0,2,WIN,A Taylor,13,13,1,5,15,13,6,5,2,0,0,0,HOME
+E0,19/01/2019,Bournemouth,West Ham,0,2,WIN,0,0,DRAW,S Hooper,9,10,1,4,10,6,3,2,1,0,0,0,HOME
+E0,19/01/2019,Liverpool,Crystal Palace,3,4,WIN,1,0,LOSE,J Moss,9,19,3,9,8,6,3,8,1,0,0,1,HOME
+E0,19/01/2019,Man United,Brighton,1,2,WIN,0,2,WIN,P Tierney,7,20,3,5,11,11,5,6,0,1,0,0,HOME
+E0,19/01/2019,Newcastle,Cardiff,0,3,WIN,0,1,WIN,S Attwell,9,16,1,6,6,11,10,7,1,0,0,0,HOME
+E0,19/01/2019,Southampton,Everton,1,2,WIN,0,0,DRAW,G Scott,7,11,2,4,11,12,6,7,1,2,0,0,HOME
+E0,19/01/2019,Watford,Burnley,0,0,DRAW,0,0,DRAW,M Oliver,11,9,3,4,9,14,7,1,2,1,0,0,HOME
+E0,19/01/2019,Wolves,Leicester,3,4,WIN,0,2,WIN,C Kavanagh,16,12,6,7,10,11,9,5,3,3,0,0,HOME
+E0,20/01/2019,Fulham,Tottenham,2,1,LOSE,0,1,WIN,C Pawson,14,12,5,4,8,10,10,7,3,2,0,0,HOME
+E0,20/01/2019,Huddersfield,Man City,3,0,LOSE,1,0,LOSE,A Marriner,12,5,4,2,9,10,4,1,2,2,0,0,HOME
+E0,29/01/2019,Arsenal,Cardiff,1,2,WIN,0,0,DRAW,M Dean,19,15,2,4,12,14,7,4,3,3,0,0,HOME
+E0,29/01/2019,Fulham,Brighton,2,4,WIN,2,0,LOSE,L Probert,15,24,6,7,5,10,1,10,3,2,0,0,HOME
+E0,29/01/2019,Huddersfield,Everton,1,0,LOSE,1,0,LOSE,S Attwell,10,10,5,2,10,13,4,3,4,1,1,0,HOME
+E0,29/01/2019,Man United,Burnley,2,2,DRAW,0,0,DRAW,J Moss,6,28,4,9,9,10,3,11,3,1,0,0,HOME
+E0,29/01/2019,Newcastle,Man City,1,2,WIN,1,0,LOSE,P Tierney,12,6,4,2,7,9,8,1,3,2,0,0,HOME
+E0,29/01/2019,Wolves,West Ham,0,3,WIN,0,0,DRAW,D Coote,4,20,0,9,10,8,1,5,1,4,0,0,HOME
+E0,30/01/2019,Bournemouth,Chelsea,0,4,WIN,0,0,DRAW,R East,11,12,7,7,6,8,7,3,0,1,0,0,HOME
+E0,30/01/2019,Liverpool,Leicester,1,1,DRAW,1,1,DRAW,M Atkinson,5,10,2,3,6,13,1,7,3,1,0,0,HOME
+E0,30/01/2019,Southampton,Crystal Palace,1,1,DRAW,1,0,LOSE,A Marriner,15,13,3,4,8,11,8,3,2,2,1,0,HOME
+E0,30/01/2019,Tottenham,Watford,1,2,WIN,1,0,LOSE,G Scott,9,17,1,3,9,6,5,9,4,0,0,0,HOME
+E0,2/2/19,Brighton,Watford,0,0,DRAW,0,0,DRAW,S Hooper,5,21,0,4,10,15,0,7,0,1,0,0,HOME
+E0,2/2/19,Burnley,Southampton,1,1,DRAW,0,0,DRAW,A Taylor,10,15,4,6,9,10,2,4,1,3,0,0,HOME
+E0,2/2/19,Cardiff,Bournemouth,0,2,WIN,0,1,WIN,J Moss,9,12,2,5,14,17,7,6,2,1,0,0,HOME
+E0,2/2/19,Chelsea,Huddersfield,0,5,WIN,0,2,WIN,P Tierney,5,23,2,7,5,8,2,11,0,0,0,0,HOME
+E0,2/2/19,Crystal Palace,Fulham,0,2,WIN,0,1,WIN,M Oliver,8,17,0,6,12,9,1,11,3,2,0,0,HOME
+E0,2/2/19,Everton,Wolves,3,1,LOSE,2,1,LOSE,L Mason,8,13,4,4,14,12,1,3,1,3,0,0,HOME
+E0,2/2/19,Tottenham,Newcastle,0,1,WIN,0,0,DRAW,A Marriner,8,21,2,4,6,6,3,6,1,0,0,0,HOME
+E0,3/2/19,Leicester,Man United,1,0,LOSE,1,0,LOSE,M Dean,10,17,6,6,9,14,2,7,4,4,0,0,HOME
+E0,3/2/19,Man City,Arsenal,1,3,WIN,1,2,WIN,M Atkinson,4,19,2,12,8,11,2,4,1,1,0,0,HOME
+E0,4/2/19,West Ham,Liverpool,1,1,DRAW,1,1,DRAW,K Friend,11,13,6,2,11,9,5,2,1,1,0,0,HOME
+E0,6/2/19,Everton,Man City,2,0,LOSE,1,0,LOSE,C Pawson,15,4,4,1,6,12,6,5,1,1,0,0,HOME
+E0,9/2/19,Brighton,Burnley,3,1,LOSE,1,0,LOSE,S Attwell,9,16,5,6,7,8,3,9,1,1,0,0,HOME
+E0,9/2/19,Crystal Palace,West Ham,1,1,DRAW,1,0,LOSE,C Pawson,6,25,4,5,9,12,4,10,0,3,0,0,HOME
+E0,9/2/19,Fulham,Man United,3,0,LOSE,2,0,LOSE,P Tierney,15,15,7,3,9,14,4,5,2,3,0,0,HOME
+E0,9/2/19,Huddersfield,Arsenal,2,1,LOSE,2,0,LOSE,J Moss,9,15,4,6,12,17,0,5,2,3,0,0,HOME
+E0,9/2/19,Liverpool,Bournemouth,0,3,WIN,0,2,WIN,A Taylor,12,20,2,9,6,14,5,8,2,2,0,0,HOME
+E0,9/2/19,Southampton,Cardiff,2,1,LOSE,0,0,DRAW,M Atkinson,6,14,3,7,12,15,2,8,3,3,0,0,HOME
+E0,9/2/19,Watford,Everton,0,1,WIN,0,0,DRAW,L Probert,9,7,4,2,10,21,2,8,0,2,1,0,HOME
+E0,10/2/19,Man City,Chelsea,0,6,WIN,0,4,WIN,M Dean,12,15,4,9,13,9,2,2,2,1,0,0,HOME
+E0,10/2/19,Tottenham,Leicester,1,3,WIN,0,1,WIN,M Oliver,20,12,9,5,4,11,9,2,1,3,0,0,HOME
+E0,11/2/19,Wolves,Newcastle,1,1,DRAW,0,0,DRAW,G Scott,9,22,3,6,9,7,1,13,3,1,0,0,HOME
+E0,22/02/2019,Cardiff,Watford,5,1,LOSE,1,0,LOSE,S Hooper,12,15,7,6,11,10,3,3,2,1,0,0,HOME
+E0,22/02/2019,West Ham,Fulham,1,3,WIN,1,2,WIN,L Mason,8,21,5,7,11,11,0,12,1,1,0,0,HOME
+E0,23/02/2019,Bournemouth,Wolves,1,1,DRAW,0,1,WIN,R East,10,10,2,3,15,10,8,9,5,4,0,0,HOME
+E0,23/02/2019,Burnley,Tottenham,1,2,WIN,0,0,DRAW,M Dean,17,10,6,4,12,9,6,7,3,1,0,0,HOME
+E0,23/02/2019,Leicester,Crystal Palace,4,1,LOSE,1,0,LOSE,A Taylor,7,27,5,5,14,7,3,8,1,2,0,0,HOME
+E0,23/02/2019,Newcastle,Huddersfield,0,2,WIN,0,0,DRAW,K Friend,3,29,1,12,7,11,0,12,0,2,1,0,HOME
+E0,24/02/2019,Arsenal,Southampton,0,2,WIN,0,2,WIN,G Scott,10,12,4,4,14,7,4,6,0,0,0,0,HOME
+E0,24/02/2019,Man United,Liverpool,0,0,DRAW,0,0,DRAW,M Oliver,7,6,1,3,17,15,7,3,3,1,0,0,HOME
+E0,26/02/2019,Cardiff,Everton,3,0,LOSE,1,0,LOSE,K Friend,12,6,4,0,12,12,4,3,1,3,0,0,HOME
+E0,26/02/2019,Huddersfield,Wolves,0,1,WIN,0,0,DRAW,D Coote,7,15,0,3,10,10,5,3,2,2,0,0,HOME
+E0,26/02/2019,Leicester,Brighton,1,2,WIN,0,1,WIN,L Probert,15,19,3,3,4,6,8,4,1,1,0,0,HOME
+E0,26/02/2019,Newcastle,Burnley,0,2,WIN,0,2,WIN,C Pawson,12,12,2,3,8,8,7,4,3,1,0,0,HOME
+E0,27/02/2019,Arsenal,Bournemouth,1,5,WIN,1,2,WIN,C Kavanagh,13,16,5,6,9,11,4,9,2,2,0,0,HOME
+E0,27/02/2019,Chelsea,Tottenham,0,2,WIN,0,0,DRAW,A Marriner,9,11,0,1,14,7,2,2,1,1,0,0,HOME
+E0,27/02/2019,Crystal Palace,Man United,3,1,LOSE,1,0,LOSE,M Atkinson,13,17,4,2,9,8,6,5,3,2,0,0,HOME
+E0,27/02/2019,Liverpool,Watford,0,5,WIN,0,2,WIN,G Scott,5,19,3,10,7,5,4,6,2,0,0,0,HOME
+E0,27/02/2019,Man City,West Ham,0,1,WIN,0,0,DRAW,S Attwell,2,20,1,7,6,2,2,12,2,0,0,0,HOME
+E0,27/02/2019,Southampton,Fulham,0,2,WIN,0,2,WIN,A Taylor,14,14,4,4,13,15,4,7,1,0,0,0,HOME
+E0,2/3/19,Bournemouth,Man City,1,0,LOSE,0,0,DRAW,K Friend,23,0,7,0,7,7,14,0,2,1,0,0,HOME
+E0,2/3/19,Brighton,Huddersfield,0,1,WIN,0,0,DRAW,M Dean,6,13,4,4,6,11,3,6,2,2,0,0,HOME
+E0,2/3/19,Burnley,Crystal Palace,3,1,LOSE,1,0,LOSE,L Probert,10,18,4,4,9,9,5,8,2,1,0,0,HOME
+E0,2/3/19,Man United,Southampton,2,3,WIN,1,0,LOSE,S Attwell,6,16,3,6,10,7,7,9,1,2,0,0,HOME
+E0,2/3/19,Tottenham,Arsenal,1,1,DRAW,1,0,LOSE,A Taylor,9,10,4,3,14,15,4,3,2,3,1,0,HOME
+E0,2/3/19,West Ham,Newcastle,0,2,WIN,0,2,WIN,C Kavanagh,17,10,2,4,14,8,6,1,4,3,0,0,HOME
+E0,2/3/19,Wolves,Cardiff,0,2,WIN,0,2,WIN,A Marriner,12,13,4,6,6,11,8,7,2,1,0,0,HOME
+E0,3/3/19,Everton,Liverpool,0,0,DRAW,0,0,DRAW,M Atkinson,10,7,3,3,10,12,7,3,2,1,0,0,HOME
+E0,3/3/19,Fulham,Chelsea,2,1,LOSE,2,1,LOSE,G Scott,20,12,7,5,10,11,4,5,1,2,0,0,HOME
+E0,3/3/19,Watford,Leicester,1,2,WIN,0,1,WIN,J Moss,14,6,2,5,12,15,5,1,1,5,0,0,HOME
+E0,9/3/19,Cardiff,West Ham,0,2,WIN,0,1,WIN,G Scott,9,16,2,7,12,7,5,7,1,2,0,0,HOME
+E0,9/3/19,Crystal Palace,Brighton,2,1,LOSE,1,0,LOSE,C Pawson,4,15,3,3,18,8,0,8,5,1,0,0,HOME
+E0,9/3/19,Huddersfield,Bournemouth,2,0,LOSE,1,0,LOSE,A Taylor,8,8,5,1,9,14,5,6,1,3,0,0,HOME
+E0,9/3/19,Leicester,Fulham,1,3,WIN,0,1,WIN,D Coote,6,18,3,8,13,9,5,6,2,0,0,0,HOME
+E0,9/3/19,Man City,Watford,1,3,WIN,0,0,DRAW,P Tierney,2,19,1,9,7,11,1,9,1,1,0,0,HOME
+E0,9/3/19,Newcastle,Everton,2,3,WIN,2,0,LOSE,L Mason,7,19,3,7,10,13,2,8,1,3,0,0,HOME
+E0,9/3/19,Southampton,Tottenham,1,2,WIN,1,0,LOSE,K Friend,16,12,5,4,9,16,10,1,2,4,0,0,HOME
+E0,10/3/19,Arsenal,Man United,0,2,WIN,0,1,WIN,J Moss,14,14,4,3,18,12,2,5,2,2,0,0,HOME
+E0,10/3/19,Chelsea,Wolves,1,1,DRAW,0,0,DRAW,M Oliver,2,22,1,6,14,8,0,13,4,1,0,0,HOME
+E0,10/3/19,Liverpool,Burnley,2,4,WIN,1,2,WIN,A Marriner,3,23,2,5,7,4,3,7,0,2,0,0,HOME
+E0,16/03/2019,Bournemouth,Newcastle,2,2,DRAW,1,0,LOSE,M Dean,12,10,4,3,12,9,6,6,2,3,0,0,HOME
+E0,16/03/2019,Burnley,Leicester,2,1,LOSE,1,1,DRAW,M Oliver,9,13,4,2,10,9,3,9,1,1,1,0,HOME
+E0,16/03/2019,West Ham,Huddersfield,3,4,WIN,2,1,LOSE,J Moss,15,16,5,5,15,7,8,5,2,0,0,0,HOME
+E0,17/03/2019,Everton,Chelsea,0,2,WIN,0,0,DRAW,A Taylor,16,15,5,8,9,17,4,3,2,1,0,0,HOME
+E0,17/03/2019,Fulham,Liverpool,2,1,LOSE,1,0,LOSE,C Pawson,16,7,6,2,7,11,10,1,1,2,0,0,HOME
+E0,30/03/2019,Brighton,Southampton,1,0,LOSE,0,0,DRAW,M Oliver,8,14,2,1,10,8,5,6,2,1,0,0,HOME
+E0,30/03/2019,Burnley,Wolves,0,2,WIN,0,1,WIN,C Kavanagh,8,5,1,1,10,12,5,1,1,1,0,0,HOME
+E0,30/03/2019,Crystal Palace,Huddersfield,0,2,WIN,0,0,DRAW,L Probert,15,19,5,5,7,10,5,5,0,0,0,0,HOME
+E0,30/03/2019,Fulham,Man City,2,0,LOSE,2,0,LOSE,K Friend,24,5,7,0,12,4,11,0,0,2,0,0,HOME
+E0,30/03/2019,Leicester,Bournemouth,0,2,WIN,0,1,WIN,L Mason,8,18,2,4,12,6,1,6,2,0,0,0,HOME
+E0,30/03/2019,Man United,Watford,1,2,WIN,0,1,WIN,S Attwell,20,8,8,5,9,14,5,3,2,1,0,0,HOME
+E0,30/03/2019,West Ham,Everton,2,0,LOSE,2,0,LOSE,P Tierney,17,3,9,1,14,7,9,4,1,1,0,0,HOME
+E0,31/03/2019,Cardiff,Chelsea,2,1,LOSE,0,0,DRAW,C Pawson,21,8,3,3,14,8,7,2,3,2,0,0,HOME
+E0,31/03/2019,Liverpool,Tottenham,1,2,WIN,0,1,WIN,M Atkinson,11,14,2,3,8,5,3,10,1,0,0,0,HOME
+E0,1/4/19,Arsenal,Newcastle,0,2,WIN,0,1,WIN,A Taylor,3,7,1,4,10,11,2,6,0,2,0,0,HOME
+E0,2/4/19,Watford,Fulham,1,4,WIN,1,1,DRAW,R East,17,15,7,7,5,12,4,6,2,3,0,0,HOME
+E0,2/4/19,Wolves,Man United,1,2,WIN,1,1,DRAW,M Dean,18,9,4,2,11,5,5,3,2,1,1,0,HOME
+E0,3/4/19,Chelsea,Brighton,0,3,WIN,0,1,WIN,G Scott,3,17,1,4,9,5,1,7,0,0,0,0,HOME
+E0,3/4/19,Man City,Cardiff,0,2,WIN,0,2,WIN,J Moss,4,27,1,11,17,3,4,7,3,0,0,0,HOME
+E0,3/4/19,Tottenham,Crystal Palace,0,2,WIN,0,0,DRAW,A Marriner,5,26,1,10,5,8,2,8,0,1,0,0,HOME
+E0,5/4/19,Southampton,Liverpool,3,1,LOSE,1,1,DRAW,P Tierney,17,11,5,1,7,8,5,7,4,2,0,0,HOME
+E0,6/4/19,Bournemouth,Burnley,3,1,LOSE,2,1,LOSE,M Atkinson,11,10,3,2,16,12,6,3,3,2,0,0,HOME
+E0,6/4/19,Huddersfield,Leicester,4,1,LOSE,1,0,LOSE,D Coote,18,10,9,4,11,13,5,8,0,3,0,0,HOME
+E0,6/4/19,Newcastle,Crystal Palace,1,0,LOSE,0,0,DRAW,S Attwell,3,18,1,5,13,12,4,9,2,1,0,0,HOME
+E0,7/4/19,Everton,Arsenal,0,1,WIN,0,1,WIN,K Friend,7,23,2,6,9,8,6,9,4,1,0,0,HOME
+E0,8/4/19,Chelsea,West Ham,0,2,WIN,0,1,WIN,C Kavanagh,9,16,2,7,7,8,4,7,1,2,0,0,HOME
+E0,12/4/19,Leicester,Newcastle,1,0,LOSE,1,0,LOSE,C Kavanagh,11,12,5,5,10,6,3,2,3,2,0,0,HOME
+E0,13/04/2019,Brighton,Bournemouth,5,0,LOSE,1,0,LOSE,K Friend,14,8,7,1,6,10,1,4,4,2,0,1,HOME
+E0,13/04/2019,Burnley,Cardiff,0,2,WIN,0,1,WIN,M Dean,14,14,2,7,10,7,4,8,3,2,0,0,HOME
+E0,13/04/2019,Fulham,Everton,0,2,WIN,0,0,DRAW,L Probert,8,12,1,5,10,8,3,7,1,2,0,0,HOME
+E0,13/04/2019,Man United,West Ham,1,2,WIN,0,1,WIN,G Scott,18,14,4,4,5,14,11,3,1,1,0,0,HOME
+E0,13/04/2019,Southampton,Wolves,1,3,WIN,1,2,WIN,J Moss,17,13,2,6,8,13,9,4,3,1,0,0,HOME
+E0,13/04/2019,Tottenham,Huddersfield,0,4,WIN,0,2,WIN,L Mason,7,22,1,5,12,10,2,4,2,2,0,0,HOME
+E0,14/04/2019,Crystal Palace,Man City,3,1,LOSE,1,0,LOSE,M Atkinson,20,7,6,3,11,5,9,2,0,0,0,0,HOME
+E0,14/04/2019,Liverpool,Chelsea,0,2,WIN,0,0,DRAW,M Oliver,6,15,3,7,9,5,2,9,1,0,0,0,HOME
+E0,15/04/2019,Watford,Arsenal,1,0,LOSE,1,0,LOSE,C Pawson,19,11,6,3,8,12,4,6,0,2,0,1,HOME
+E0,16/04/2019,Brighton,Cardiff,2,0,LOSE,1,0,LOSE,A Marriner,10,14,3,2,13,11,4,5,1,0,0,0,HOME
+E0,20/04/2019,Bournemouth,Fulham,1,0,LOSE,0,0,DRAW,D Coote,17,15,5,5,18,11,7,3,3,1,0,0,HOME
+E0,20/04/2019,Huddersfield,Watford,2,1,LOSE,1,0,LOSE,R East,11,13,6,3,9,15,2,2,2,2,0,0,HOME
+E0,20/04/2019,Man City,Tottenham,0,1,WIN,0,1,WIN,M Oliver,10,15,4,4,11,11,4,4,2,1,0,0,HOME
+E0,20/04/2019,Newcastle,Southampton,1,3,WIN,0,2,WIN,A Taylor,15,15,3,6,11,5,11,4,2,0,0,0,HOME
+E0,20/04/2019,West Ham,Leicester,2,2,DRAW,0,1,WIN,L Probert,11,11,5,3,9,8,8,6,0,2,0,0,HOME
+E0,20/04/2019,Wolves,Brighton,0,0,DRAW,0,0,DRAW,C Pawson,5,22,0,5,8,0,1,14,1,0,0,0,HOME
+E0,21/04/2019,Arsenal,Crystal Palace,3,2,LOSE,1,0,LOSE,J Moss,16,12,7,5,12,15,3,8,1,4,0,0,HOME
+E0,21/04/2019,Cardiff,Liverpool,2,0,LOSE,0,0,DRAW,M Atkinson,17,7,6,2,5,6,10,5,1,1,0,0,HOME
+E0,21/04/2019,Everton,Man United,0,4,WIN,0,2,WIN,P Tierney,7,15,1,8,7,11,2,10,1,1,0,0,HOME
+E0,22/04/2019,Chelsea,Burnley,2,2,DRAW,2,2,DRAW,K Friend,6,22,3,9,4,9,1,10,1,2,0,0,HOME
+E0,23/04/2019,Tottenham,Brighton,0,1,WIN,0,0,DRAW,C Kavanagh,6,29,1,5,13,7,3,6,2,1,0,0,HOME
+E0,23/04/2019,Watford,Southampton,1,1,DRAW,1,0,LOSE,M Dean,8,15,4,4,14,10,4,3,2,5,0,0,HOME
+E0,24/04/2019,Man United,Man City,2,0,LOSE,0,0,DRAW,A Marriner,8,12,5,1,10,10,1,1,2,2,0,0,HOME
+E0,24/04/2019,Wolves,Arsenal,1,3,WIN,0,3,WIN,S Attwell,11,11,1,3,9,12,5,5,3,2,0,0,HOME
+E0,26/04/2019,Liverpool,Huddersfield,0,5,WIN,0,3,WIN,K Friend,5,21,1,7,14,5,4,4,0,0,0,0,HOME
+E0,27/04/2019,Brighton,Newcastle,1,1,DRAW,1,0,LOSE,M Dean,9,9,1,2,10,7,4,7,3,2,0,0,HOME
+E0,27/04/2019,Crystal Palace,Everton,0,0,DRAW,0,0,DRAW,L Mason,22,8,3,0,15,9,10,5,0,2,0,0,HOME
+E0,27/04/2019,Fulham,Cardiff,0,1,WIN,0,0,DRAW,C Kavanagh,13,8,8,2,8,10,3,10,0,0,0,0,HOME
+E0,27/04/2019,Southampton,Bournemouth,3,3,DRAW,2,1,LOSE,G Scott,9,22,5,7,9,8,3,9,1,2,0,0,HOME
+E0,27/04/2019,Tottenham,West Ham,1,0,LOSE,0,0,DRAW,A Taylor,16,14,7,4,8,3,7,2,2,0,0,0,HOME
+E0,27/04/2019,Watford,Wolves,2,1,LOSE,1,0,LOSE,S Hooper,11,10,4,1,11,10,5,4,2,3,0,0,HOME
+E0,28/04/2019,Burnley,Man City,1,0,LOSE,0,0,DRAW,P Tierney,25,2,7,0,7,5,6,0,1,1,0,0,HOME
+E0,28/04/2019,Leicester,Arsenal,0,3,WIN,0,0,DRAW,M Oliver,6,24,1,12,13,13,6,8,1,3,1,0,HOME
+E0,28/04/2019,Man United,Chelsea,1,1,DRAW,1,1,DRAW,M Atkinson,16,7,3,5,14,9,6,6,2,3,0,0,HOME
+E0,3/5/19,Everton,Burnley,0,2,WIN,0,2,WIN,C Kavanagh,5,20,1,6,9,8,1,8,2,0,0,0,HOME
+E0,4/5/19,Bournemouth,Tottenham,0,1,WIN,0,0,DRAW,C Pawson,11,20,5,6,12,11,6,10,5,1,2,0,HOME
+E0,4/5/19,Cardiff,Crystal Palace,3,2,LOSE,2,1,LOSE,M Oliver,21,18,7,8,11,14,5,10,0,0,0,0,HOME
+E0,4/5/19,Newcastle,Liverpool,3,2,LOSE,2,1,LOSE,A Marriner,11,14,4,7,4,10,3,2,1,1,0,0,HOME
+E0,4/5/19,West Ham,Southampton,0,3,WIN,0,1,WIN,S Attwell,11,17,1,6,11,2,7,2,1,1,0,0,HOME
+E0,4/5/19,Wolves,Fulham,0,1,WIN,0,0,DRAW,J Moss,6,19,2,6,15,10,1,7,3,1,0,0,HOME
+E0,5/5/19,Arsenal,Brighton,1,1,DRAW,0,1,WIN,A Taylor,11,20,5,8,14,9,3,16,2,5,0,0,HOME
+E0,5/5/19,Chelsea,Watford,0,3,WIN,0,0,DRAW,P Tierney,15,19,3,9,12,6,6,6,1,0,0,0,HOME
+E0,5/5/19,Huddersfield,Man United,1,1,DRAW,1,0,LOSE,L Mason,23,7,7,3,10,10,7,3,1,1,0,0,HOME
+E0,6/5/19,Man City,Leicester,0,1,WIN,0,0,DRAW,M Dean,7,19,2,5,5,12,0,11,2,3,0,0,HOME
+E0,12/5/19,Brighton,Man City,4,1,LOSE,2,1,LOSE,M Oliver,20,6,9,2,8,12,6,2,0,0,0,0,HOME
+E0,12/5/19,Burnley,Arsenal,3,1,LOSE,0,0,DRAW,M Dean,17,14,6,5,3,11,5,4,1,5,0,0,HOME
+E0,12/5/19,Crystal Palace,Bournemouth,3,5,WIN,1,3,WIN,R East,16,17,8,8,8,11,4,4,0,3,0,0,HOME
+E0,12/5/19,Fulham,Newcastle,4,0,LOSE,2,0,LOSE,K Friend,13,16,6,2,8,6,5,5,0,1,0,0,HOME
+E0,12/5/19,Leicester,Chelsea,0,0,DRAW,0,0,DRAW,A Taylor,14,9,4,3,8,9,5,4,1,0,0,0,HOME
+E0,12/5/19,Liverpool,Wolves,0,2,WIN,0,1,WIN,M Atkinson,7,13,2,5,11,3,1,4,2,0,0,0,HOME
+E0,12/5/19,Man United,Cardiff,2,0,LOSE,1,0,LOSE,J Moss,13,26,4,10,6,9,2,11,3,3,0,0,HOME
+E0,12/5/19,Southampton,Huddersfield,1,1,DRAW,0,1,WIN,L Probert,10,10,3,3,6,8,3,4,1,0,0,0,HOME
+E0,12/5/19,Tottenham,Everton,2,2,DRAW,0,1,WIN,A Marriner,17,11,9,3,13,10,4,7,2,0,0,0,HOME
+E0,12/5/19,Watford,West Ham,4,1,LOSE,2,0,LOSE,C Kavanagh,16,17,9,8,10,10,2,7,0,1,0,1,HOME
+E0,10/8/18,Leicester,Man United,2,1,LOSE,1,0,LOSE,A Marriner,8,13,6,4,11,8,2,5,2,1,0,0,HOME
+E0,11/8/18,Cardiff,Bournemouth,2,0,LOSE,1,0,LOSE,K Friend,12,10,4,1,11,9,7,4,1,1,0,0,HOME
+E0,11/8/18,Crystal Palace,Fulham,0,2,WIN,0,1,WIN,M Dean,15,10,6,9,9,11,5,5,1,2,0,0,HOME
+E0,11/8/18,Chelsea,Huddersfield,0,3,WIN,0,2,WIN,C Kavanagh,6,13,1,4,9,8,2,5,2,1,0,0,HOME
+E0,11/8/18,Tottenham,Newcastle,1,2,WIN,1,2,WIN,M Atkinson,15,15,2,5,11,12,3,5,2,2,0,0,HOME
+E0,11/8/18,Brighton,Watford,2,0,LOSE,1,0,LOSE,J Moss,19,6,5,0,10,16,8,2,2,2,0,0,HOME
+E0,11/8/18,Everton,Wolves,2,2,DRAW,1,1,DRAW,C Pawson,11,6,4,5,8,7,3,6,0,1,0,1,HOME
+E0,12/8/18,Man City,Arsenal,0,2,WIN,0,1,WIN,M Oliver,9,17,3,8,11,14,2,9,2,2,0,0,HOME
+E0,12/8/18,West Ham,Liverpool,4,0,LOSE,2,0,LOSE,A Taylor,18,5,8,2,14,9,5,4,1,2,0,0,HOME
+E0,12/8/18,Burnley,Southampton,0,0,DRAW,0,0,DRAW,G Scott,18,16,3,6,10,9,8,5,0,1,0,0,HOME
+E0,18/08/2018,Newcastle,Cardiff,0,0,DRAW,0,0,DRAW,C Pawson,12,12,1,6,14,16,5,5,2,2,0,1,HOME
+E0,18/08/2018,Arsenal,Chelsea,3,2,LOSE,2,2,DRAW,M Atkinson,24,15,11,6,12,9,5,1,0,2,0,0,HOME
+E0,18/08/2018,Southampton,Everton,2,1,LOSE,2,0,LOSE,L Mason,13,15,7,4,8,20,2,5,0,5,0,0,HOME
+E0,18/08/2018,Wolves,Leicester,2,0,LOSE,2,0,LOSE,M Dean,6,11,2,3,10,8,1,9,2,1,1,0,HOME
+E0,18/08/2018,Fulham,Tottenham,3,1,LOSE,1,0,LOSE,A Taylor,25,10,11,3,9,5,5,2,0,0,0,0,HOME
+E0,18/08/2018,Bournemouth,West Ham,1,2,WIN,1,0,LOSE,S Attwell,11,12,5,5,14,10,6,4,6,2,0,0,HOME
+E0,19/08/2018,Man United,Brighton,3,2,LOSE,3,1,LOSE,K Friend,6,9,3,3,16,13,3,5,1,1,0,0,HOME
+E0,19/08/2018,Watford,Burnley,1,3,WIN,1,1,DRAW,P Tierney,8,9,3,6,8,19,5,2,1,2,0,0,HOME
+E0,19/08/2018,Huddersfield,Man City,6,1,LOSE,3,1,LOSE,A Marriner,32,5,14,1,9,4,10,3,0,2,0,0,HOME
+E0,20/08/2018,Liverpool,Crystal Palace,0,2,WIN,0,1,WIN,M Oliver,8,16,2,6,6,13,6,7,1,1,1,0,HOME
+E0,25/08/2018,West Ham,Arsenal,3,1,LOSE,1,1,DRAW,G Scott,17,13,10,5,16,13,10,2,1,3,0,0,HOME
+E0,25/08/2018,Everton,Bournemouth,2,2,DRAW,0,0,DRAW,L Probert,17,11,5,3,12,10,6,2,0,3,1,1,HOME
+E0,25/08/2018,Cardiff,Huddersfield,0,0,DRAW,0,0,DRAW,M Oliver,5,14,1,4,8,10,7,7,0,1,1,0,HOME
+E0,25/08/2018,Brighton,Liverpool,1,0,LOSE,1,0,LOSE,C Kavanagh,22,6,8,2,8,14,8,5,1,1,0,0,HOME
+E0,25/08/2018,Leicester,Southampton,1,2,WIN,0,0,DRAW,J Moss,11,8,5,5,13,11,10,3,1,1,1,0,HOME
+E0,25/08/2018,Man City,Wolves,1,1,DRAW,0,0,DRAW,M Atkinson,11,18,2,6,13,8,5,9,1,2,0,0,HOME
+E0,26/08/2018,Burnley,Fulham,4,2,LOSE,3,2,LOSE,D Coote,25,12,12,2,11,8,6,4,2,1,0,0,HOME
+E0,26/08/2018,Chelsea,Newcastle,1,2,WIN,0,0,DRAW,P Tierney,6,15,2,3,16,8,4,5,3,1,0,0,HOME
+E0,26/08/2018,Crystal Palace,Watford,2,1,LOSE,0,0,DRAW,A Taylor,13,9,5,3,14,11,6,3,4,2,0,0,HOME
+E0,27/08/2018,Tottenham,Man United,0,3,WIN,0,0,DRAW,C Pawson,23,9,5,5,11,16,5,2,2,4,0,0,HOME
+E0,1/9/18,Fulham,Brighton,2,2,DRAW,0,1,WIN,L Probert,15,10,5,5,12,14,7,1,3,3,0,0,HOME
+E0,1/9/18,Bournemouth,Chelsea,2,0,LOSE,0,0,DRAW,L Mason,24,8,6,1,10,7,7,6,2,2,0,0,HOME
+E0,1/9/18,Southampton,Crystal Palace,0,2,WIN,0,0,DRAW,M Atkinson,20,19,6,6,11,12,7,4,1,1,0,0,HOME
+E0,1/9/18,Huddersfield,Everton,1,1,DRAW,1,1,DRAW,S Attwell,11,9,1,6,13,14,4,3,3,3,0,0,HOME
+E0,1/9/18,Liverpool,Leicester,1,2,WIN,0,2,WIN,P Tierney,12,10,5,4,9,12,4,4,3,2,0,0,HOME
+E0,1/9/18,Newcastle,Man City,2,1,LOSE,1,1,DRAW,K Friend,24,3,8,2,5,13,4,0,0,0,0,0,HOME
+E0,1/9/18,Wolves,West Ham,0,1,WIN,0,0,DRAW,C Kavanagh,13,15,3,6,10,11,4,4,2,1,0,0,HOME
+E0,2/9/18,Man United,Burnley,0,2,WIN,0,2,WIN,J Moss,9,21,2,9,7,13,2,5,2,3,0,1,HOME
+E0,2/9/18,Arsenal,Cardiff,2,3,WIN,1,1,DRAW,A Taylor,14,17,3,11,12,14,3,9,3,4,0,0,HOME
+E0,2/9/18,Tottenham,Watford,2,1,LOSE,0,0,DRAW,A Marriner,7,11,3,2,9,8,3,10,2,1,0,0,HOME
+E0,15/09/2018,Leicester,Bournemouth,4,2,LOSE,3,0,LOSE,C Pawson,10,14,5,8,13,15,4,6,3,2,0,1,HOME
+E0,15/09/2018,Cardiff,Chelsea,4,1,LOSE,2,1,LOSE,J Moss,18,6,7,2,8,10,5,4,0,0,0,0,HOME
+E0,15/09/2018,Crystal Palace,Huddersfield,0,1,WIN,0,1,WIN,L Mason,15,7,2,2,11,17,5,3,1,2,0,0,HOME
+E0,15/09/2018,Fulham,Man City,3,0,LOSE,2,0,LOSE,S Attwell,28,9,9,3,7,7,10,4,0,0,0,0,HOME
+E0,15/09/2018,Arsenal,Newcastle,1,2,WIN,0,0,DRAW,L Probert,4,12,2,2,13,11,10,4,0,0,0,0,HOME
+E0,15/09/2018,Liverpool,Tottenham,1,2,WIN,0,1,WIN,M Oliver,11,17,3,10,17,16,5,4,0,0,0,0,HOME
+E0,15/09/2018,Man United,Watford,1,2,WIN,0,2,WIN,M Dean,14,9,5,6,9,11,6,8,2,1,0,1,HOME
+E0,16/09/2018,West Ham,Everton,1,3,WIN,1,2,WIN,M Atkinson,16,9,4,4,15,12,4,2,2,5,0,0,HOME
+E0,16/09/2018,Burnley,Wolves,1,0,LOSE,0,0,DRAW,A Marriner,30,7,7,2,10,9,8,2,2,4,0,0,HOME
+E0,17/09/2018,Brighton,Southampton,2,2,DRAW,1,0,LOSE,A Taylor,14,12,5,4,10,13,1,4,2,3,0,0,HOME
+E0,22/09/2018,Tottenham,Brighton,1,2,WIN,0,1,WIN,C Kavanagh,8,16,4,7,15,9,5,7,2,1,0,0,HOME
+E0,22/09/2018,Bournemouth,Burnley,4,0,LOSE,2,0,LOSE,A Taylor,12,19,5,5,17,6,3,8,2,0,0,0,HOME
+E0,22/09/2018,Man City,Cardiff,0,5,WIN,0,3,WIN,M Oliver,2,21,2,10,6,4,1,9,1,1,0,0,HOME
+E0,22/09/2018,Newcastle,Crystal Palace,0,0,DRAW,0,0,DRAW,A Marriner,16,6,4,3,8,11,9,5,1,1,0,0,HOME
+E0,22/09/2018,Watford,Fulham,1,1,DRAW,0,1,WIN,M Atkinson,15,11,3,6,11,9,8,8,2,1,0,0,HOME
+E0,22/09/2018,Huddersfield,Leicester,3,1,LOSE,1,1,DRAW,D Coote,18,9,8,2,10,16,3,1,2,1,0,0,HOME
+E0,22/09/2018,Southampton,Liverpool,3,0,LOSE,3,0,LOSE,P Tierney,12,7,4,1,7,10,5,4,0,2,0,0,HOME
+E0,22/09/2018,Wolves,Man United,1,1,DRAW,1,0,LOSE,K Friend,15,11,6,8,5,17,5,4,1,1,0,0,HOME
+E0,23/09/2018,Everton,Arsenal,2,0,LOSE,0,0,DRAW,J Moss,9,9,5,6,17,12,5,9,2,1,0,0,HOME
+E0,23/09/2018,Chelsea,West Ham,0,0,DRAW,0,0,DRAW,M Dean,6,17,1,6,11,9,1,8,2,1,0,0,HOME
+E0,29/09/2018,Watford,Arsenal,2,0,LOSE,0,0,DRAW,A Taylor,9,13,2,4,11,17,6,6,2,2,0,0,HOME
+E0,29/09/2018,Liverpool,Chelsea,1,1,DRAW,1,0,LOSE,A Marriner,10,13,4,6,7,9,4,4,0,2,0,0,HOME
+E0,29/09/2018,Fulham,Everton,3,0,LOSE,0,0,DRAW,R East,19,6,6,0,13,13,12,1,0,3,0,0,HOME
+E0,29/09/2018,Tottenham,Huddersfield,0,2,WIN,0,2,WIN,C Pawson,9,10,5,6,17,16,3,0,2,2,0,0,HOME
+E0,29/09/2018,Brighton,Man City,2,0,LOSE,1,0,LOSE,L Mason,28,4,8,1,4,10,10,3,0,3,0,0,HOME
+E0,29/09/2018,Leicester,Newcastle,0,2,WIN,0,1,WIN,S Hooper,6,12,1,5,11,5,5,9,0,0,0,0,HOME
+E0,29/09/2018,Man United,West Ham,3,1,LOSE,2,0,LOSE,M Oliver,8,9,3,4,12,12,4,9,0,1,0,0,HOME
+E0,29/09/2018,Southampton,Wolves,2,0,LOSE,0,0,DRAW,S Attwell,14,17,6,6,11,7,8,6,3,1,0,0,HOME
+E0,30/09/2018,Burnley,Cardiff,1,2,WIN,0,0,DRAW,M Atkinson,19,3,5,2,11,15,10,2,1,3,0,0,HOME
+E0,1/10/18,Crystal Palace,Bournemouth,2,1,LOSE,1,0,LOSE,M Dean,11,10,5,2,9,12,3,3,3,4,0,0,HOME
+E0,5/10/18,West Ham,Brighton,1,0,LOSE,1,0,LOSE,K Friend,9,17,4,4,12,8,2,9,3,2,0,0,HOME
+E0,6/10/18,Huddersfield,Burnley,1,1,DRAW,1,0,LOSE,C Kavanagh,6,19,3,2,8,11,1,10,2,2,0,0,HOME
+E0,6/10/18,Wolves,Crystal Palace,0,1,WIN,0,0,DRAW,M Oliver,11,7,4,2,11,13,6,3,3,4,0,0,HOME
+E0,6/10/18,Everton,Leicester,1,2,WIN,1,1,DRAW,A Marriner,8,17,2,8,10,11,2,10,2,1,1,0,HOME
+E0,6/10/18,Newcastle,Man United,3,2,LOSE,0,2,WIN,A Taylor,18,13,10,8,16,8,10,6,2,2,0,0,HOME
+E0,6/10/18,Cardiff,Tottenham,1,0,LOSE,1,0,LOSE,M Dean,19,8,7,6,7,11,6,2,2,1,0,1,HOME
+E0,6/10/18,Bournemouth,Watford,0,4,WIN,0,3,WIN,J Moss,14,10,2,7,11,9,10,7,3,1,1,0,HOME
+E0,7/10/18,Arsenal,Fulham,1,5,WIN,1,1,DRAW,P Tierney,21,9,4,7,11,12,4,2,2,0,0,0,HOME
+E0,7/10/18,Man City,Liverpool,0,0,DRAW,0,0,DRAW,M Atkinson,7,6,2,2,10,10,2,6,1,3,0,0,HOME
+E0,7/10/18,Chelsea,Southampton,0,3,WIN,0,1,WIN,C Pawson,15,21,6,6,13,11,4,12,6,0,0,0,HOME
+E0,20/10/2018,Southampton,Bournemouth,0,0,DRAW,0,0,DRAW,L Probert,10,8,2,4,10,14,6,4,1,2,0,0,HOME
+E0,20/10/2018,Fulham,Cardiff,4,2,LOSE,2,2,DRAW,K Friend,22,9,5,4,15,16,4,4,3,3,0,0,HOME
+E0,20/10/2018,Man United,Chelsea,2,2,DRAW,1,0,LOSE,M Dean,21,7,6,4,9,17,5,3,2,5,0,0,HOME
+E0,20/10/2018,Liverpool,Huddersfield,0,1,WIN,0,1,WIN,M Oliver,13,11,1,2,9,6,2,4,0,2,0,0,HOME
+E0,20/10/2018,Burnley,Man City,5,0,LOSE,1,0,LOSE,J Moss,24,5,10,0,11,5,10,1,2,2,0,0,HOME
+E0,20/10/2018,Brighton,Newcastle,0,1,WIN,0,1,WIN,A Marriner,27,8,6,2,13,17,10,2,0,2,0,0,HOME
+E0,20/10/2018,Tottenham,West Ham,0,1,WIN,0,1,WIN,M Atkinson,13,10,4,2,8,10,10,6,3,0,0,0,HOME
+E0,20/10/2018,Watford,Wolves,0,2,WIN,0,2,WIN,L Mason,10,9,1,3,23,13,8,2,3,1,0,0,HOME
+E0,21/10/2018,Crystal Palace,Everton,2,0,LOSE,0,0,DRAW,A Taylor,20,7,4,3,13,17,10,5,2,1,0,0,HOME
+E0,22/10/2018,Leicester,Arsenal,3,1,LOSE,1,1,DRAW,C Kavanagh,19,8,6,2,10,10,6,4,2,2,0,0,HOME
+E0,27/10/2018,Wolves,Brighton,1,0,LOSE,0,0,DRAW,A Taylor,2,25,1,7,11,8,1,10,3,0,0,0,HOME
+E0,27/10/2018,Bournemouth,Fulham,0,3,WIN,0,1,WIN,A Marriner,11,12,1,5,16,3,5,5,2,1,1,0,HOME
+E0,27/10/2018,West Ham,Leicester,1,1,DRAW,0,1,WIN,M Oliver,21,11,7,3,17,5,8,0,1,1,0,1,HOME
+E0,27/10/2018,Cardiff,Liverpool,4,1,LOSE,1,0,LOSE,S Attwell,19,2,7,1,6,4,8,0,0,0,0,0,HOME
+E0,27/10/2018,Newcastle,Southampton,0,0,DRAW,0,0,DRAW,C Kavanagh,22,6,4,0,9,12,7,2,0,1,0,0,HOME
+E0,27/10/2018,Huddersfield,Watford,3,0,LOSE,2,0,LOSE,M Dean,12,13,6,7,9,13,3,3,1,2,0,0,HOME
+E0,28/10/2018,Chelsea,Burnley,0,4,WIN,0,1,WIN,C Pawson,7,24,1,8,14,10,4,4,4,2,0,0,HOME
+E0,28/10/2018,Arsenal,Crystal Palace,2,2,DRAW,1,0,LOSE,M Atkinson,16,7,3,2,10,16,6,4,1,2,0,0,HOME
+E0,28/10/2018,Everton,Man United,2,1,LOSE,1,0,LOSE,J Moss,14,14,10,6,15,12,8,4,2,1,0,0,HOME
+E0,29/10/2018,Man City,Tottenham,0,1,WIN,0,1,WIN,K Friend,4,13,1,6,13,13,3,6,2,2,0,0,HOME
+E0,3/11/18,Liverpool,Arsenal,1,1,DRAW,0,0,DRAW,A Marriner,12,13,4,4,7,7,5,8,1,1,0,0,HOME
+E0,3/11/18,Man United,Bournemouth,1,2,WIN,1,1,DRAW,P Tierney,18,18,7,8,12,12,9,5,4,3,0,0,HOME
+E0,3/11/18,Leicester,Cardiff,0,1,WIN,0,0,DRAW,L Probert,11,13,2,5,13,12,6,12,2,2,0,0,HOME
+E0,3/11/18,Brighton,Everton,3,1,LOSE,1,1,DRAW,D Coote,14,5,3,3,9,17,6,4,0,1,0,0,HOME
+E0,3/11/18,Watford,Newcastle,1,0,LOSE,0,0,DRAW,C Pawson,10,16,2,1,12,11,8,9,1,5,0,0,HOME
+E0,3/11/18,Burnley,West Ham,4,2,LOSE,1,1,DRAW,R East,22,6,10,3,7,9,10,4,1,4,0,0,HOME
+E0,3/11/18,Tottenham,Wolves,2,3,WIN,0,2,WIN,M Dean,16,10,7,8,11,8,5,1,1,2,0,0,HOME
+E0,4/11/18,Crystal Palace,Chelsea,3,1,LOSE,1,0,LOSE,M Oliver,15,7,6,2,6,13,4,2,0,1,0,0,HOME
+E0,4/11/18,Southampton,Man City,6,1,LOSE,4,1,LOSE,L Mason,18,12,8,6,14,9,4,4,1,1,0,0,HOME
+E0,5/11/18,Fulham,Huddersfield,1,0,LOSE,1,0,LOSE,A Taylor,10,7,2,1,11,8,5,4,1,2,0,0,HOME
+E0,10/11/18,Brighton,Cardiff,2,1,LOSE,1,1,DRAW,M Atkinson,20,7,6,3,7,21,4,1,2,1,0,1,HOME
+E0,10/11/18,Tottenham,Crystal Palace,0,1,WIN,0,0,DRAW,J Moss,11,11,4,2,12,9,10,6,1,1,0,0,HOME
+E0,10/11/18,West Ham,Huddersfield,1,1,DRAW,1,0,LOSE,C Kavanagh,15,12,7,5,9,8,5,6,1,1,0,0,HOME
+E0,10/11/18,Burnley,Leicester,0,0,DRAW,0,0,DRAW,M Dean,22,6,5,1,13,10,12,1,2,0,0,0,HOME
+E0,10/11/18,Bournemouth,Newcastle,2,1,LOSE,2,1,LOSE,L Probert,18,14,6,4,9,11,7,10,2,1,0,0,HOME
+E0,10/11/18,Watford,Southampton,1,1,DRAW,1,0,LOSE,S Hooper,14,12,4,6,13,13,7,6,3,2,0,0,HOME
+E0,11/11/18,Wolves,Arsenal,1,1,DRAW,0,1,WIN,S Attwell,10,12,3,5,9,16,11,2,2,2,0,0,HOME
+E0,11/11/18,Everton,Chelsea,0,0,DRAW,0,0,DRAW,K Friend,15,6,4,1,7,11,5,5,4,3,0,0,HOME
+E0,11/11/18,Fulham,Liverpool,2,0,LOSE,1,0,LOSE,P Tierney,20,8,7,3,11,9,6,3,1,1,0,0,HOME
+E0,11/11/18,Man United,Man City,3,1,LOSE,1,0,LOSE,A Taylor,17,6,5,1,12,12,5,1,1,1,0,0,HOME
+E0,24/11/2018,Leicester,Brighton,1,1,DRAW,1,0,LOSE,C Kavanagh,14,8,3,3,10,7,6,1,3,1,0,1,HOME
+E0,24/11/2018,Cardiff,Everton,1,0,LOSE,0,0,DRAW,P Tierney,16,7,8,1,12,13,7,3,0,3,0,0,HOME
+E0,24/11/2018,Southampton,Fulham,3,2,LOSE,2,1,LOSE,M Oliver,10,19,5,8,10,6,2,5,2,3,0,0,HOME
+E0,24/11/2018,Crystal Palace,Man United,0,0,DRAW,0,0,DRAW,L Mason,12,13,5,2,13,12,10,3,1,2,0,0,HOME
+E0,24/11/2018,Chelsea,Tottenham,3,1,LOSE,2,0,LOSE,M Atkinson,18,13,9,2,19,12,4,4,0,3,0,0,HOME
+E0,24/11/2018,Liverpool,Watford,0,3,WIN,0,0,DRAW,J Moss,5,10,1,7,12,13,5,5,0,0,0,1,HOME
+E0,24/11/2018,Man City,West Ham,0,4,WIN,0,3,WIN,A Marriner,9,9,1,6,6,3,8,1,0,0,0,0,HOME
+E0,25/11/2018,Arsenal,Bournemouth,1,2,WIN,1,1,DRAW,C Pawson,11,20,5,4,6,9,5,8,2,1,0,0,HOME
+E0,25/11/2018,Huddersfield,Wolves,0,2,WIN,0,1,WIN,K Friend,12,14,3,6,9,8,3,5,1,2,0,0,HOME
+E0,26/11/2018,Newcastle,Burnley,1,2,WIN,1,2,WIN,A Taylor,14,17,4,3,6,11,5,5,0,1,0,0,HOME
+E0,30/11/2018,Wolves,Cardiff,2,1,LOSE,0,1,WIN,A Marriner,17,15,3,4,3,12,7,6,1,2,0,0,HOME
+E0,1/12/18,Burnley,Crystal Palace,2,0,LOSE,1,0,LOSE,L Probert,29,4,9,0,9,10,10,2,1,1,0,0,HOME
+E0,1/12/18,Brighton,Huddersfield,1,2,WIN,1,1,DRAW,M Oliver,7,14,2,6,10,12,2,6,0,2,1,0,HOME
+E0,1/12/18,Watford,Leicester,2,0,LOSE,2,0,LOSE,G Scott,7,8,3,0,7,6,4,8,2,1,0,1,HOME
+E0,1/12/18,Bournemouth,Man City,3,1,LOSE,1,1,DRAW,S Attwell,16,4,6,1,9,3,8,4,0,0,0,0,HOME
+E0,1/12/18,West Ham,Newcastle,0,3,WIN,0,1,WIN,P Tierney,16,7,4,4,10,10,7,3,3,3,0,0,HOME
+E0,1/12/18,Man United,Southampton,2,2,DRAW,2,2,DRAW,K Friend,16,11,6,5,12,13,3,5,4,4,0,0,HOME
+E0,2/12/18,Tottenham,Arsenal,4,2,LOSE,1,2,WIN,M Dean,22,11,7,6,15,17,8,5,3,3,0,1,HOME
+E0,2/12/18,Fulham,Chelsea,2,0,LOSE,1,0,LOSE,C Pawson,16,9,9,4,8,17,4,6,2,1,0,0,HOME
+E0,2/12/18,Everton,Liverpool,1,0,LOSE,0,0,DRAW,C Kavanagh,16,9,3,3,12,7,8,1,3,2,0,0,HOME
+E0,4/12/18,Huddersfield,Bournemouth,2,1,LOSE,2,1,LOSE,R East,6,23,2,6,14,11,4,8,4,2,0,0,HOME
+E0,4/12/18,Crystal Palace,Brighton,3,1,LOSE,3,0,LOSE,K Friend,9,18,3,5,14,12,4,5,2,3,1,0,HOME
+E0,4/12/18,Man City,Watford,1,2,WIN,0,1,WIN,P Tierney,11,15,7,7,4,8,3,11,0,1,0,0,HOME
+E0,4/12/18,Cardiff,West Ham,3,1,LOSE,0,0,DRAW,G Scott,17,9,11,5,10,10,10,4,1,2,0,0,HOME
+E0,5/12/18,Liverpool,Burnley,1,3,WIN,0,0,DRAW,S Attwell,10,18,6,12,10,3,5,9,1,0,0,0,HOME
+E0,5/12/18,Newcastle,Everton,1,1,DRAW,1,1,DRAW,L Mason,19,8,3,5,7,18,14,2,0,5,0,0,HOME
+E0,5/12/18,Leicester,Fulham,1,1,DRAW,1,0,LOSE,D Coote,25,13,7,5,12,7,10,8,0,0,0,0,HOME
+E0,5/12/18,Arsenal,Man United,2,2,DRAW,1,1,DRAW,A Marriner,10,9,7,4,13,10,4,4,3,3,0,0,HOME
+E0,5/12/18,Southampton,Tottenham,3,1,LOSE,1,0,LOSE,A Taylor,13,18,8,5,7,5,8,6,0,0,0,0,HOME
+E0,5/12/18,Chelsea,Wolves,2,1,LOSE,0,1,WIN,J Moss,6,17,2,3,18,10,1,5,4,4,0,0,HOME
+E0,8/12/18,Huddersfield,Arsenal,1,0,LOSE,0,0,DRAW,P Tierney,14,6,2,0,13,20,7,1,5,4,0,0,HOME
+E0,8/12/18,Liverpool,Bournemouth,0,4,WIN,0,1,WIN,L Mason,8,10,2,4,9,11,6,6,2,1,0,0,HOME
+E0,8/12/18,Brighton,Burnley,1,0,LOSE,1,0,LOSE,M Atkinson,14,14,4,1,11,11,2,7,2,0,0,0,HOME
+E0,8/12/18,Southampton,Cardiff,1,0,LOSE,0,0,DRAW,J Moss,13,12,4,1,9,10,7,7,2,2,0,0,HOME
+E0,8/12/18,Man City,Chelsea,2,0,LOSE,1,0,LOSE,M Oliver,8,14,5,4,12,11,1,13,2,0,0,0,HOME
+E0,8/12/18,Tottenham,Leicester,0,2,WIN,0,1,WIN,C Pawson,11,7,3,2,12,7,6,5,3,1,0,0,HOME
+E0,8/12/18,Fulham,Man United,4,1,LOSE,3,0,LOSE,L Probert,20,10,11,4,11,15,10,3,1,1,0,1,HOME
+E0,8/12/18,Crystal Palace,West Ham,3,2,LOSE,0,1,WIN,A Taylor,13,8,6,4,10,8,5,3,1,2,0,0,HOME
+E0,9/12/18,Wolves,Newcastle,1,2,WIN,1,1,DRAW,M Dean,12,13,4,6,10,17,4,6,2,5,1,0,HOME
+E0,10/12/18,Watford,Everton,2,2,DRAW,1,0,LOSE,K Friend,12,15,5,3,13,13,6,6,1,1,0,0,HOME
+E0,15/12/2018,Leicester,Crystal Palace,1,0,LOSE,1,0,LOSE,M Oliver,8,12,1,2,10,8,4,4,2,1,0,0,HOME
+E0,15/12/2018,West Ham,Fulham,0,2,WIN,0,2,WIN,M Dean,16,6,4,3,14,10,6,4,2,1,0,0,HOME
+E0,15/12/2018,Newcastle,Huddersfield,0,1,WIN,0,0,DRAW,A Taylor,15,8,5,5,5,13,10,1,1,1,0,0,HOME
+E0,15/12/2018,Everton,Man City,3,1,LOSE,1,0,LOSE,C Pawson,13,9,5,2,7,9,6,2,1,2,0,0,HOME
+E0,15/12/2018,Burnley,Tottenham,1,0,LOSE,0,0,DRAW,G Scott,15,4,3,0,7,8,8,3,0,2,0,0,HOME
+E0,15/12/2018,Cardiff,Watford,3,2,LOSE,1,0,LOSE,A Madley,17,10,8,3,7,5,5,0,0,0,0,0,HOME
+E0,15/12/2018,Bournemouth,Wolves,2,0,LOSE,1,0,LOSE,S Hooper,9,13,3,3,15,7,5,3,1,2,0,0,HOME
+E0,16/12/2018,Chelsea,Brighton,1,2,WIN,0,2,WIN,S Attwell,6,10,2,3,14,6,4,1,2,2,0,0,HOME
+E0,16/12/2018,Man United,Liverpool,3,1,LOSE,1,1,DRAW,M Atkinson,36,6,11,2,6,14,13,2,0,2,0,0,HOME
+E0,16/12/2018,Arsenal,Southampton,3,2,LOSE,2,1,LOSE,C Kavanagh,12,13,7,4,12,10,4,5,3,1,0,0,HOME
+E0,21/12/2018,Liverpool,Wolves,0,2,WIN,0,1,WIN,C Pawson,11,15,5,6,7,3,1,10,0,0,0,0,HOME
+E0,22/12/2018,Burnley,Arsenal,3,1,LOSE,1,0,LOSE,K Friend,10,7,6,2,10,14,1,3,2,5,0,0,HOME
+E0,22/12/2018,Brighton,Bournemouth,2,0,LOSE,1,0,LOSE,M Dean,14,10,3,5,8,18,6,5,2,0,0,1,HOME
+E0,22/12/2018,Man United,Cardiff,1,5,WIN,1,3,WIN,M Oliver,9,17,3,9,13,13,4,7,2,1,0,0,HOME
+E0,22/12/2018,Leicester,Chelsea,0,1,WIN,0,0,DRAW,L Probert,17,8,5,3,10,9,9,5,0,2,0,0,HOME
+E0,22/12/2018,Southampton,Huddersfield,1,3,WIN,0,2,WIN,S Attwell,16,13,5,6,12,9,8,2,2,3,0,0,HOME
+E0,22/12/2018,Crystal Palace,Man City,2,3,WIN,1,2,WIN,A Marriner,19,5,5,3,7,6,13,0,0,4,0,0,HOME
+E0,22/12/2018,Fulham,Newcastle,0,0,DRAW,0,0,DRAW,M Atkinson,9,4,0,2,9,12,6,0,1,2,0,0,HOME
+E0,22/12/2018,Watford,West Ham,0,2,WIN,0,1,WIN,L Mason,18,11,7,5,9,11,10,4,3,2,0,0,HOME
+E0,23/12/2018,Tottenham,Everton,2,6,WIN,1,3,WIN,P Tierney,10,17,3,8,13,9,2,1,0,2,0,0,HOME
+E0,26/12/2018,Arsenal,Brighton,1,1,DRAW,1,1,DRAW,A Taylor,12,7,3,4,10,4,4,9,2,1,0,0,HOME
+E0,26/12/2018,Everton,Burnley,1,5,WIN,1,3,WIN,M Oliver,11,13,4,6,11,19,5,7,2,4,0,0,HOME
+E0,26/12/2018,Cardiff,Crystal Palace,0,0,DRAW,0,0,DRAW,L Probert,31,9,5,4,9,11,12,1,0,3,0,0,HOME
+E0,26/12/2018,Wolves,Fulham,1,1,DRAW,0,0,DRAW,A Marriner,11,14,9,5,9,6,2,0,2,1,0,0,HOME
+E0,26/12/2018,Man City,Leicester,2,1,LOSE,1,1,DRAW,M Dean,10,11,5,4,5,8,3,7,2,2,0,1,HOME
+E0,26/12/2018,Newcastle,Liverpool,4,0,LOSE,1,0,LOSE,G Scott,16,6,8,2,7,9,10,2,0,0,0,0,HOME
+E0,26/12/2018,Huddersfield,Man United,3,1,LOSE,1,0,LOSE,J Moss,16,10,10,2,9,13,5,3,1,1,0,0,HOME
+E0,26/12/2018,Bournemouth,Tottenham,5,0,LOSE,3,0,LOSE,C Kavanagh,10,14,7,4,4,8,3,4,2,1,0,0,HOME
+E0,26/12/2018,Chelsea,Watford,1,2,WIN,1,1,DRAW,M Atkinson,10,10,2,4,15,5,3,4,1,0,0,0,HOME
+E0,27/12/2018,West Ham,Southampton,1,2,WIN,0,0,DRAW,C Pawson,11,16,5,5,10,3,4,5,2,0,0,0,HOME
+E0,29/12/2018,Everton,Brighton,1,0,LOSE,0,0,DRAW,A Madley,11,13,3,4,10,11,6,6,0,2,0,0,HOME
+E0,29/12/2018,Huddersfield,Fulham,1,0,LOSE,0,0,DRAW,K Friend,14,9,5,5,12,10,4,3,3,1,0,0,HOME
+E0,29/12/2018,Cardiff,Leicester,0,1,WIN,0,0,DRAW,S Hooper,16,12,7,3,14,16,10,4,0,2,0,0,HOME
+E0,29/12/2018,Arsenal,Liverpool,5,1,LOSE,4,1,LOSE,M Oliver,15,8,10,2,8,13,5,3,1,2,0,0,HOME
+E0,29/12/2018,Wolves,Tottenham,1,3,WIN,1,0,LOSE,S Attwell,10,11,3,4,7,7,6,7,3,2,0,0,HOME
+E0,29/12/2018,Newcastle,Watford,1,1,DRAW,0,1,WIN,R East,12,8,5,2,17,16,3,6,1,2,0,0,HOME
+E0,30/12/2018,West Ham,Burnley,2,0,LOSE,2,0,LOSE,D Coote,17,11,5,4,15,11,5,5,1,4,0,0,HOME
+E0,30/12/2018,Chelsea,Crystal Palace,0,1,WIN,0,0,DRAW,C Pawson,4,12,0,4,11,8,3,4,0,1,0,0,HOME
+E0,30/12/2018,Bournemouth,Man United,4,1,LOSE,3,1,LOSE,L Mason,11,7,8,3,10,7,4,5,2,0,1,0,HOME
+E0,30/12/2018,Man City,Southampton,1,3,WIN,1,3,WIN,P Tierney,5,14,4,6,11,10,3,8,2,3,1,0,HOME
+E0,1/1/19,Fulham,Arsenal,4,1,LOSE,1,0,LOSE,G Scott,16,9,9,4,7,12,8,3,0,1,0,0,HOME
+E0,1/1/19,Tottenham,Cardiff,0,3,WIN,0,3,WIN,K Friend,6,13,3,4,6,6,5,3,1,0,0,0,HOME
+E0,1/1/19,Leicester,Everton,0,1,WIN,0,0,DRAW,M Atkinson,17,8,2,4,5,8,6,5,3,1,0,0,HOME
+E0,2/1/19,Watford,Bournemouth,3,3,DRAW,3,3,DRAW,D Coote,25,11,12,3,9,15,4,2,1,4,0,0,HOME
+E0,2/1/19,Southampton,Chelsea,0,0,DRAW,0,0,DRAW,J Moss,17,6,6,2,8,11,7,2,1,2,0,0,HOME
+E0,2/1/19,Burnley,Huddersfield,1,2,WIN,1,1,DRAW,M Dean,9,16,2,8,11,9,5,2,0,4,1,1,HOME
+E0,2/1/19,Man United,Newcastle,0,2,WIN,0,0,DRAW,A Marriner,14,16,3,7,10,9,1,2,1,2,0,0,HOME
+E0,2/1/19,Brighton,West Ham,2,2,DRAW,0,0,DRAW,C Kavanagh,13,13,6,6,9,11,1,5,0,1,0,0,HOME
+E0,2/1/19,Crystal Palace,Wolves,0,2,WIN,0,0,DRAW,R East,9,17,1,4,9,7,3,10,4,1,0,0,HOME
+E0,3/1/19,Liverpool,Man City,2,1,LOSE,1,0,LOSE,A Taylor,9,7,4,5,12,7,2,1,4,2,0,0,HOME
+E0,12/1/19,Liverpool,Brighton,0,1,WIN,0,0,DRAW,K Friend,7,10,0,3,15,5,2,7,0,0,0,0,HOME
+E0,12/1/19,Fulham,Burnley,2,1,LOSE,2,1,LOSE,M Atkinson,11,12,0,4,5,9,2,6,1,2,0,0,HOME
+E0,12/1/19,Huddersfield,Cardiff,0,0,DRAW,0,0,DRAW,L Mason,3,14,0,2,12,14,3,10,3,1,0,0,HOME
+E0,12/1/19,Newcastle,Chelsea,2,1,LOSE,1,1,DRAW,C Kavanagh,10,9,6,2,6,13,8,5,1,1,0,0,HOME
+E0,12/1/19,Watford,Crystal Palace,1,2,WIN,1,0,LOSE,P Tierney,15,16,6,2,11,11,7,7,1,4,0,0,HOME
+E0,12/1/19,Southampton,Leicester,1,2,WIN,0,2,WIN,M Oliver,23,8,6,3,7,9,10,3,2,1,0,1,HOME
+E0,12/1/19,Arsenal,West Ham,1,0,LOSE,0,0,DRAW,J Moss,11,11,3,2,7,10,7,3,0,2,0,0,HOME
+E0,13/01/2019,Bournemouth,Everton,2,0,LOSE,0,0,DRAW,A Taylor,15,16,3,7,17,8,5,9,5,0,0,0,HOME
+E0,13/01/2019,Man United,Tottenham,0,1,WIN,0,1,WIN,M Dean,21,13,11,8,8,8,7,4,1,2,0,0,HOME
+E0,14/01/2019,Wolves,Man City,3,0,LOSE,2,0,LOSE,C Pawson,24,3,9,0,6,3,12,1,1,0,0,1,HOME
+E0,19/01/2019,Chelsea,Arsenal,2,0,LOSE,2,0,LOSE,A Taylor,13,13,5,1,13,15,5,6,0,2,0,0,HOME
+E0,19/01/2019,West Ham,Bournemouth,2,0,LOSE,0,0,DRAW,S Hooper,10,9,4,1,6,10,2,3,0,1,0,0,HOME
+E0,19/01/2019,Crystal Palace,Liverpool,4,3,LOSE,0,1,WIN,J Moss,19,9,9,3,6,8,8,3,0,1,1,0,HOME
+E0,19/01/2019,Brighton,Man United,2,1,LOSE,2,0,LOSE,P Tierney,20,7,5,3,11,11,6,5,1,0,0,0,HOME
+E0,19/01/2019,Cardiff,Newcastle,3,0,LOSE,1,0,LOSE,S Attwell,16,9,6,1,11,6,7,10,0,1,0,0,HOME
+E0,19/01/2019,Everton,Southampton,2,1,LOSE,0,0,DRAW,G Scott,11,7,4,2,12,11,7,6,2,1,0,0,HOME
+E0,19/01/2019,Burnley,Watford,0,0,DRAW,0,0,DRAW,M Oliver,9,11,4,3,14,9,1,7,1,2,0,0,HOME
+E0,19/01/2019,Leicester,Wolves,4,3,LOSE,2,0,LOSE,C Kavanagh,12,16,7,6,11,10,5,9,3,3,0,0,HOME
+E0,20/01/2019,Tottenham,Fulham,1,2,WIN,1,0,LOSE,C Pawson,12,14,4,5,10,8,7,10,2,3,0,0,HOME
+E0,20/01/2019,Man City,Huddersfield,0,3,WIN,0,1,WIN,A Marriner,5,12,2,4,10,9,1,4,2,2,0,0,HOME
+E0,29/01/2019,Cardiff,Arsenal,2,1,LOSE,0,0,DRAW,M Dean,15,19,4,2,14,12,4,7,3,3,0,0,HOME
+E0,29/01/2019,Brighton,Fulham,4,2,LOSE,0,2,WIN,L Probert,24,15,7,6,10,5,10,1,2,3,0,0,HOME
+E0,29/01/2019,Everton,Huddersfield,0,1,WIN,0,1,WIN,S Attwell,10,10,2,5,13,10,3,4,1,4,0,1,HOME
+E0,29/01/2019,Burnley,Man United,2,2,DRAW,0,0,DRAW,J Moss,28,6,9,4,10,9,11,3,1,3,0,0,HOME
+E0,29/01/2019,Man City,Newcastle,2,1,LOSE,0,1,WIN,P Tierney,6,12,2,4,9,7,1,8,2,3,0,0,HOME
+E0,29/01/2019,West Ham,Wolves,3,0,LOSE,0,0,DRAW,D Coote,20,4,9,0,8,10,5,1,4,1,0,0,HOME
+E0,30/01/2019,Chelsea,Bournemouth,4,0,LOSE,0,0,DRAW,R East,12,11,7,7,8,6,3,7,1,0,0,0,HOME
+E0,30/01/2019,Leicester,Liverpool,1,1,DRAW,1,1,DRAW,M Atkinson,10,5,3,2,13,6,7,1,1,3,0,0,HOME
+E0,30/01/2019,Crystal Palace,Southampton,1,1,DRAW,0,1,WIN,A Marriner,13,15,4,3,11,8,3,8,2,2,0,1,HOME
+E0,30/01/2019,Watford,Tottenham,2,1,LOSE,0,1,WIN,G Scott,17,9,3,1,6,9,9,5,0,4,0,0,HOME
+E0,2/2/19,Watford,Brighton,0,0,DRAW,0,0,DRAW,S Hooper,21,5,4,0,15,10,7,0,1,0,0,0,HOME
+E0,2/2/19,Southampton,Burnley,1,1,DRAW,0,0,DRAW,A Taylor,15,10,6,4,10,9,4,2,3,1,0,0,HOME
+E0,2/2/19,Bournemouth,Cardiff,2,0,LOSE,1,0,LOSE,J Moss,12,9,5,2,17,14,6,7,1,2,0,0,HOME
+E0,2/2/19,Huddersfield,Chelsea,5,0,LOSE,2,0,LOSE,P Tierney,23,5,7,2,8,5,11,2,0,0,0,0,HOME
+E0,2/2/19,Fulham,Crystal Palace,2,0,LOSE,1,0,LOSE,M Oliver,17,8,6,0,9,12,11,1,2,3,0,0,HOME
+E0,2/2/19,Wolves,Everton,1,3,WIN,1,2,WIN,L Mason,13,8,4,4,12,14,3,1,3,1,0,0,HOME
+E0,2/2/19,Newcastle,Tottenham,1,0,LOSE,0,0,DRAW,A Marriner,21,8,4,2,6,6,6,3,0,1,0,0,HOME
+E0,3/2/19,Man United,Leicester,0,1,WIN,0,1,WIN,M Dean,17,10,6,6,14,9,7,2,4,4,0,0,HOME
+E0,3/2/19,Arsenal,Man City,3,1,LOSE,2,1,LOSE,M Atkinson,19,4,12,2,11,8,4,2,1,1,0,0,HOME
+E0,4/2/19,Liverpool,West Ham,1,1,DRAW,1,1,DRAW,K Friend,13,11,2,6,9,11,2,5,1,1,0,0,HOME
+E0,6/2/19,Man City,Everton,0,2,WIN,0,1,WIN,C Pawson,4,15,1,4,12,6,5,6,1,1,0,0,HOME
+E0,9/2/19,Burnley,Brighton,1,3,WIN,0,1,WIN,S Attwell,16,9,6,5,8,7,9,3,1,1,0,0,HOME
+E0,9/2/19,West Ham,Crystal Palace,1,1,DRAW,0,1,WIN,C Pawson,25,6,5,4,12,9,10,4,3,0,0,0,HOME
+E0,9/2/19,Man United,Fulham,0,3,WIN,0,2,WIN,P Tierney,15,15,3,7,14,9,5,4,3,2,0,0,HOME
+E0,9/2/19,Arsenal,Huddersfield,1,2,WIN,0,2,WIN,J Moss,15,9,6,4,17,12,5,0,3,2,0,0,HOME
+E0,9/2/19,Bournemouth,Liverpool,3,0,LOSE,2,0,LOSE,A Taylor,20,12,9,2,14,6,8,5,2,2,0,0,HOME
+E0,9/2/19,Cardiff,Southampton,1,2,WIN,0,0,DRAW,M Atkinson,14,6,7,3,15,12,8,2,3,3,0,0,HOME
+E0,9/2/19,Everton,Watford,1,0,LOSE,0,0,DRAW,L Probert,7,9,2,4,21,10,8,2,2,0,0,1,HOME
+E0,10/2/19,Chelsea,Man City,6,0,LOSE,4,0,LOSE,M Dean,15,12,9,4,9,13,2,2,1,2,0,0,HOME
+E0,10/2/19,Leicester,Tottenham,3,1,LOSE,1,0,LOSE,M Oliver,12,20,5,9,11,4,2,9,3,1,0,0,HOME
+E0,11/2/19,Newcastle,Wolves,1,1,DRAW,0,0,DRAW,G Scott,22,9,6,3,7,9,13,1,1,3,0,0,HOME
+E0,22/02/2019,Watford,Cardiff,1,5,WIN,0,1,WIN,S Hooper,15,12,6,7,10,11,3,3,1,2,0,0,HOME
+E0,22/02/2019,Fulham,West Ham,3,1,LOSE,2,1,LOSE,L Mason,21,8,7,5,11,11,12,0,1,1,0,0,HOME
+E0,23/02/2019,Wolves,Bournemouth,1,1,DRAW,1,0,LOSE,R East,10,10,3,2,10,15,9,8,4,5,0,0,HOME
+E0,23/02/2019,Tottenham,Burnley,2,1,LOSE,0,0,DRAW,M Dean,10,17,4,6,9,12,7,6,1,3,0,0,HOME
+E0,23/02/2019,Crystal Palace,Leicester,1,4,WIN,0,1,WIN,A Taylor,27,7,5,5,7,14,8,3,2,1,0,0,HOME
+E0,23/02/2019,Huddersfield,Newcastle,2,0,LOSE,0,0,DRAW,K Friend,29,3,12,1,11,7,12,0,2,0,0,1,HOME
+E0,24/02/2019,Southampton,Arsenal,2,0,LOSE,2,0,LOSE,G Scott,12,10,4,4,7,14,6,4,0,0,0,0,HOME
+E0,24/02/2019,Liverpool,Man United,0,0,DRAW,0,0,DRAW,M Oliver,6,7,3,1,15,17,3,7,1,3,0,0,HOME
+E0,26/02/2019,Everton,Cardiff,0,3,WIN,0,1,WIN,K Friend,6,12,0,4,12,12,3,4,3,1,0,0,HOME
+E0,26/02/2019,Wolves,Huddersfield,1,0,LOSE,0,0,DRAW,D Coote,15,7,3,0,10,10,3,5,2,2,0,0,HOME
+E0,26/02/2019,Brighton,Leicester,2,1,LOSE,1,0,LOSE,L Probert,19,15,3,3,6,4,4,8,1,1,0,0,HOME
+E0,26/02/2019,Burnley,Newcastle,2,0,LOSE,2,0,LOSE,C Pawson,12,12,3,2,8,8,4,7,1,3,0,0,HOME
+E0,27/02/2019,Bournemouth,Arsenal,5,1,LOSE,2,1,LOSE,C Kavanagh,16,13,6,5,11,9,9,4,2,2,0,0,HOME
+E0,27/02/2019,Tottenham,Chelsea,2,0,LOSE,0,0,DRAW,A Marriner,11,9,1,0,7,14,2,2,1,1,0,0,HOME
+E0,27/02/2019,Man United,Crystal Palace,1,3,WIN,0,1,WIN,M Atkinson,17,13,2,4,8,9,5,6,2,3,0,0,HOME
+E0,27/02/2019,Watford,Liverpool,5,0,LOSE,2,0,LOSE,G Scott,19,5,10,3,5,7,6,4,0,2,0,0,HOME
+E0,27/02/2019,West Ham,Man City,1,0,LOSE,0,0,DRAW,S Attwell,20,2,7,1,2,6,12,2,0,2,0,0,HOME
+E0,27/02/2019,Fulham,Southampton,2,0,LOSE,2,0,LOSE,A Taylor,14,14,4,4,15,13,7,4,0,1,0,0,HOME
+E0,2/3/19,Man City,Bournemouth,0,1,WIN,0,0,DRAW,K Friend,0,23,0,7,7,7,0,14,1,2,0,0,HOME
+E0,2/3/19,Huddersfield,Brighton,1,0,LOSE,0,0,DRAW,M Dean,13,6,4,4,11,6,6,3,2,2,0,0,HOME
+E0,2/3/19,Crystal Palace,Burnley,1,3,WIN,0,1,WIN,L Probert,18,10,4,4,9,9,8,5,1,2,0,0,HOME
+E0,2/3/19,Southampton,Man United,3,2,LOSE,0,1,WIN,S Attwell,16,6,6,3,7,10,9,7,2,1,0,0,HOME
+E0,2/3/19,Arsenal,Tottenham,1,1,DRAW,0,1,WIN,A Taylor,10,9,3,4,15,14,3,4,3,2,0,1,HOME
+E0,2/3/19,Newcastle,West Ham,2,0,LOSE,2,0,LOSE,C Kavanagh,10,17,4,2,8,14,1,6,3,4,0,0,HOME
+E0,2/3/19,Cardiff,Wolves,2,0,LOSE,2,0,LOSE,A Marriner,13,12,6,4,11,6,7,8,1,2,0,0,HOME
+E0,3/3/19,Liverpool,Everton,0,0,DRAW,0,0,DRAW,M Atkinson,7,10,3,3,12,10,3,7,1,2,0,0,HOME
+E0,3/3/19,Chelsea,Fulham,1,2,WIN,1,2,WIN,G Scott,12,20,5,7,11,10,5,4,2,1,0,0,HOME
+E0,3/3/19,Leicester,Watford,2,1,LOSE,1,0,LOSE,J Moss,6,14,5,2,15,12,1,5,5,1,0,0,HOME
+E0,9/3/19,West Ham,Cardiff,2,0,LOSE,1,0,LOSE,G Scott,16,9,7,2,7,12,7,5,2,1,0,0,HOME
+E0,9/3/19,Brighton,Crystal Palace,1,2,WIN,0,1,WIN,C Pawson,15,4,3,3,8,18,8,0,1,5,0,0,HOME
+E0,9/3/19,Bournemouth,Huddersfield,0,2,WIN,0,1,WIN,A Taylor,8,8,1,5,14,9,6,5,3,1,0,0,HOME
+E0,9/3/19,Fulham,Leicester,3,1,LOSE,1,0,LOSE,D Coote,18,6,8,3,9,13,6,5,0,2,0,0,HOME
+E0,9/3/19,Watford,Man City,3,1,LOSE,0,0,DRAW,P Tierney,19,2,9,1,11,7,9,1,1,1,0,0,HOME
+E0,9/3/19,Everton,Newcastle,3,2,LOSE,0,2,WIN,L Mason,19,7,7,3,13,10,8,2,3,1,0,0,HOME
+E0,9/3/19,Tottenham,Southampton,2,1,LOSE,0,1,WIN,K Friend,12,16,4,5,16,9,1,10,4,2,0,0,HOME
+E0,10/3/19,Man United,Arsenal,2,0,LOSE,1,0,LOSE,J Moss,14,14,3,4,12,18,5,2,2,2,0,0,HOME
+E0,10/3/19,Wolves,Chelsea,1,1,DRAW,0,0,DRAW,M Oliver,22,2,6,1,8,14,13,0,1,4,0,0,HOME
+E0,10/3/19,Burnley,Liverpool,4,2,LOSE,2,1,LOSE,A Marriner,23,3,5,2,4,7,7,3,2,0,0,0,HOME
+E0,16/03/2019,Newcastle,Bournemouth,2,2,DRAW,0,1,WIN,M Dean,10,12,3,4,9,12,6,6,3,2,0,0,HOME
+E0,16/03/2019,Leicester,Burnley,1,2,WIN,1,1,DRAW,M Oliver,13,9,2,4,9,10,9,3,1,1,0,1,HOME
+E0,16/03/2019,Huddersfield,West Ham,4,3,LOSE,1,2,WIN,J Moss,16,15,5,5,7,15,5,8,0,2,0,0,HOME
+E0,17/03/2019,Chelsea,Everton,2,0,LOSE,0,0,DRAW,A Taylor,15,16,8,5,17,9,3,4,1,2,0,0,HOME
+E0,17/03/2019,Liverpool,Fulham,1,2,WIN,0,1,WIN,C Pawson,7,16,2,6,11,7,1,10,2,1,0,0,HOME
+E0,30/03/2019,Southampton,Brighton,0,1,WIN,0,0,DRAW,M Oliver,14,8,1,2,8,10,6,5,1,2,0,0,HOME
+E0,30/03/2019,Wolves,Burnley,2,0,LOSE,1,0,LOSE,C Kavanagh,5,8,1,1,12,10,1,5,1,1,0,0,HOME
+E0,30/03/2019,Huddersfield,Crystal Palace,2,0,LOSE,0,0,DRAW,L Probert,19,15,5,5,10,7,5,5,0,0,0,0,HOME
+E0,30/03/2019,Man City,Fulham,0,2,WIN,0,2,WIN,K Friend,5,24,0,7,4,12,0,11,2,0,0,0,HOME
+E0,30/03/2019,Bournemouth,Leicester,2,0,LOSE,1,0,LOSE,L Mason,18,8,4,2,6,12,6,1,0,2,0,0,HOME
+E0,30/03/2019,Watford,Man United,2,1,LOSE,1,0,LOSE,S Attwell,8,20,5,8,14,9,3,5,1,2,0,0,HOME
+E0,30/03/2019,Everton,West Ham,0,2,WIN,0,2,WIN,P Tierney,3,17,1,9,7,14,4,9,1,1,0,0,HOME
+E0,31/03/2019,Chelsea,Cardiff,1,2,WIN,0,0,DRAW,C Pawson,8,21,3,3,8,14,2,7,2,3,0,0,HOME
+E0,31/03/2019,Tottenham,Liverpool,2,1,LOSE,1,0,LOSE,M Atkinson,14,11,3,2,5,8,10,3,0,1,0,0,HOME
+E0,1/4/19,Newcastle,Arsenal,2,0,LOSE,1,0,LOSE,A Taylor,7,3,4,1,11,10,6,2,2,0,0,0,HOME
+E0,2/4/19,Fulham,Watford,4,1,LOSE,1,1,DRAW,R East,15,17,7,7,12,5,6,4,3,2,0,0,HOME
+E0,2/4/19,Man United,Wolves,2,1,LOSE,1,1,DRAW,M Dean,9,18,2,4,5,11,3,5,1,2,0,1,HOME
+E0,3/4/19,Brighton,Chelsea,3,0,LOSE,1,0,LOSE,G Scott,17,3,4,1,5,9,7,1,0,0,0,0,HOME
+E0,3/4/19,Cardiff,Man City,2,0,LOSE,2,0,LOSE,J Moss,27,4,11,1,3,17,7,4,0,3,0,0,HOME
+E0,3/4/19,Crystal Palace,Tottenham,2,0,LOSE,0,0,DRAW,A Marriner,26,5,10,1,8,5,8,2,1,0,0,0,HOME
+E0,5/4/19,Liverpool,Southampton,1,3,WIN,1,1,DRAW,P Tierney,11,17,1,5,8,7,7,5,2,4,0,0,HOME
+E0,6/4/19,Burnley,Bournemouth,1,3,WIN,1,2,WIN,M Atkinson,10,11,2,3,12,16,3,6,2,3,0,0,HOME
+E0,6/4/19,Leicester,Huddersfield,1,4,WIN,0,1,WIN,D Coote,10,18,4,9,13,11,8,5,3,0,0,0,HOME
+E0,6/4/19,Crystal Palace,Newcastle,0,1,WIN,0,0,DRAW,S Attwell,18,3,5,1,12,13,9,4,1,2,0,0,HOME
+E0,7/4/19,Arsenal,Everton,1,0,LOSE,1,0,LOSE,K Friend,23,7,6,2,8,9,9,6,1,4,0,0,HOME
+E0,8/4/19,West Ham,Chelsea,2,0,LOSE,1,0,LOSE,C Kavanagh,16,9,7,2,8,7,7,4,2,1,0,0,HOME
+E0,12/4/19,Newcastle,Leicester,0,1,WIN,0,1,WIN,C Kavanagh,12,11,5,5,6,10,2,3,2,3,0,0,HOME
+E0,13/04/2019,Bournemouth,Brighton,0,5,WIN,0,1,WIN,K Friend,8,14,1,7,10,6,4,1,2,4,1,0,HOME
+E0,13/04/2019,Cardiff,Burnley,2,0,LOSE,1,0,LOSE,M Dean,14,14,7,2,7,10,8,4,2,3,0,0,HOME
+E0,13/04/2019,Everton,Fulham,2,0,LOSE,0,0,DRAW,L Probert,12,8,5,1,8,10,7,3,2,1,0,0,HOME
+E0,13/04/2019,West Ham,Man United,2,1,LOSE,1,0,LOSE,G Scott,14,18,4,4,14,5,3,11,1,1,0,0,HOME
+E0,13/04/2019,Wolves,Southampton,3,1,LOSE,2,1,LOSE,J Moss,13,17,6,2,13,8,4,9,1,3,0,0,HOME
+E0,13/04/2019,Huddersfield,Tottenham,4,0,LOSE,2,0,LOSE,L Mason,22,7,5,1,10,12,4,2,2,2,0,0,HOME
+E0,14/04/2019,Man City,Crystal Palace,1,3,WIN,0,1,WIN,M Atkinson,7,20,3,6,5,11,2,9,0,0,0,0,HOME
+E0,14/04/2019,Chelsea,Liverpool,2,0,LOSE,0,0,DRAW,M Oliver,15,6,7,3,5,9,9,2,0,1,0,0,HOME
+E0,15/04/2019,Arsenal,Watford,0,1,WIN,0,1,WIN,C Pawson,11,19,3,6,12,8,6,4,2,0,1,0,HOME
+E0,16/04/2019,Cardiff,Brighton,0,2,WIN,0,1,WIN,A Marriner,14,10,2,3,11,13,5,4,0,1,0,0,HOME
+E0,20/04/2019,Fulham,Bournemouth,0,1,WIN,0,0,DRAW,D Coote,15,17,5,5,11,18,3,7,1,3,0,0,HOME
+E0,20/04/2019,Watford,Huddersfield,1,2,WIN,0,1,WIN,R East,13,11,3,6,15,9,2,2,2,2,0,0,HOME
+E0,20/04/2019,Tottenham,Man City,1,0,LOSE,1,0,LOSE,M Oliver,15,10,4,4,11,11,4,4,1,2,0,0,HOME
+E0,20/04/2019,Southampton,Newcastle,3,1,LOSE,2,0,LOSE,A Taylor,15,15,6,3,5,11,4,11,0,2,0,0,HOME
+E0,20/04/2019,Leicester,West Ham,2,2,DRAW,1,0,LOSE,L Probert,11,11,3,5,8,9,6,8,2,0,0,0,HOME
+E0,20/04/2019,Brighton,Wolves,0,0,DRAW,0,0,DRAW,C Pawson,22,5,5,0,0,8,14,1,0,1,0,0,HOME
+E0,21/04/2019,Crystal Palace,Arsenal,2,3,WIN,0,1,WIN,J Moss,12,16,5,7,15,12,8,3,4,1,0,0,HOME
+E0,21/04/2019,Liverpool,Cardiff,0,2,WIN,0,0,DRAW,M Atkinson,7,17,2,6,6,5,5,10,1,1,0,0,HOME
+E0,21/04/2019,Man United,Everton,4,0,LOSE,2,0,LOSE,P Tierney,15,7,8,1,11,7,10,2,1,1,0,0,HOME
+E0,22/04/2019,Burnley,Chelsea,2,2,DRAW,2,2,DRAW,K Friend,22,6,9,3,9,4,10,1,2,1,0,0,HOME
+E0,23/04/2019,Brighton,Tottenham,1,0,LOSE,0,0,DRAW,C Kavanagh,29,6,5,1,7,13,6,3,1,2,0,0,HOME
+E0,23/04/2019,Southampton,Watford,1,1,DRAW,0,1,WIN,M Dean,15,8,4,4,10,14,3,4,5,2,0,0,HOME
+E0,24/04/2019,Man City,Man United,0,2,WIN,0,0,DRAW,A Marriner,12,8,1,5,10,10,1,1,2,2,0,0,HOME
+E0,24/04/2019,Arsenal,Wolves,3,1,LOSE,3,0,LOSE,S Attwell,11,11,3,1,12,9,5,5,2,3,0,0,HOME
+E0,26/04/2019,Huddersfield,Liverpool,5,0,LOSE,3,0,LOSE,K Friend,21,5,7,1,5,14,4,4,0,0,0,0,HOME
+E0,27/04/2019,Newcastle,Brighton,1,1,DRAW,0,1,WIN,M Dean,9,9,2,1,7,10,7,4,2,3,0,0,HOME
+E0,27/04/2019,Everton,Crystal Palace,0,0,DRAW,0,0,DRAW,L Mason,8,22,0,3,9,15,5,10,2,0,0,0,HOME
+E0,27/04/2019,Cardiff,Fulham,1,0,LOSE,0,0,DRAW,C Kavanagh,8,13,2,8,10,8,10,3,0,0,0,0,HOME
+E0,27/04/2019,Bournemouth,Southampton,3,3,DRAW,1,2,WIN,G Scott,22,9,7,5,8,9,9,3,2,1,0,0,HOME
+E0,27/04/2019,West Ham,Tottenham,0,1,WIN,0,0,DRAW,A Taylor,14,16,4,7,3,8,2,7,0,2,0,0,HOME
+E0,27/04/2019,Wolves,Watford,1,2,WIN,0,1,WIN,S Hooper,10,11,1,4,10,11,4,5,3,2,0,0,HOME
+E0,28/04/2019,Man City,Burnley,0,1,WIN,0,0,DRAW,P Tierney,2,25,0,7,5,7,0,6,1,1,0,0,HOME
+E0,28/04/2019,Arsenal,Leicester,3,0,LOSE,0,0,DRAW,M Oliver,24,6,12,1,13,13,8,6,3,1,0,1,HOME
+E0,28/04/2019,Chelsea,Man United,1,1,DRAW,1,1,DRAW,M Atkinson,7,16,5,3,9,14,6,6,3,2,0,0,HOME
+E0,3/5/19,Burnley,Everton,2,0,LOSE,2,0,LOSE,C Kavanagh,20,5,6,1,8,9,8,1,0,2,0,0,HOME
+E0,4/5/19,Tottenham,Bournemouth,1,0,LOSE,0,0,DRAW,C Pawson,20,11,6,5,11,12,10,6,1,5,0,2,HOME
+E0,4/5/19,Crystal Palace,Cardiff,2,3,WIN,1,2,WIN,M Oliver,18,21,8,7,14,11,10,5,0,0,0,0,HOME
+E0,4/5/19,Liverpool,Newcastle,2,3,WIN,1,2,WIN,A Marriner,14,11,7,4,10,4,2,3,1,1,0,0,HOME
+E0,4/5/19,Southampton,West Ham,3,0,LOSE,1,0,LOSE,S Attwell,17,11,6,1,2,11,2,7,1,1,0,0,HOME
+E0,4/5/19,Fulham,Wolves,1,0,LOSE,0,0,DRAW,J Moss,19,6,6,2,10,15,7,1,1,3,0,0,HOME
+E0,5/5/19,Brighton,Arsenal,1,1,DRAW,1,0,LOSE,A Taylor,20,11,8,5,9,14,16,3,5,2,0,0,HOME
+E0,5/5/19,Watford,Chelsea,3,0,LOSE,0,0,DRAW,P Tierney,19,15,9,3,6,12,6,6,0,1,0,0,HOME
+E0,5/5/19,Man United,Huddersfield,1,1,DRAW,0,1,WIN,L Mason,7,23,3,7,10,10,3,7,1,1,0,0,HOME
+E0,6/5/19,Leicester,Man City,1,0,LOSE,0,0,DRAW,M Dean,19,7,5,2,12,5,11,0,3,2,0,0,HOME
+E0,12/5/19,Man City,Brighton,1,4,WIN,1,2,WIN,M Oliver,6,20,2,9,12,8,2,6,0,0,0,0,HOME
+E0,12/5/19,Arsenal,Burnley,1,3,WIN,0,0,DRAW,M Dean,14,17,5,6,11,3,4,5,5,1,0,0,HOME
+E0,12/5/19,Bournemouth,Crystal Palace,5,3,LOSE,3,1,LOSE,R East,17,16,8,8,11,8,4,4,3,0,0,0,HOME
+E0,12/5/19,Newcastle,Fulham,0,4,WIN,0,2,WIN,K Friend,16,13,2,6,6,8,5,5,1,0,0,0,HOME
+E0,12/5/19,Chelsea,Leicester,0,0,DRAW,0,0,DRAW,A Taylor,9,14,3,4,9,8,4,5,0,1,0,0,HOME
+E0,12/5/19,Wolves,Liverpool,2,0,LOSE,1,0,LOSE,M Atkinson,13,7,5,2,3,11,4,1,0,2,0,0,HOME
+E0,12/5/19,Cardiff,Man United,0,2,WIN,0,1,WIN,J Moss,26,13,10,4,9,6,11,2,3,3,0,0,HOME
+E0,12/5/19,Huddersfield,Southampton,1,1,DRAW,1,0,LOSE,L Probert,10,10,3,3,8,6,4,3,0,1,0,0,HOME
+E0,12/5/19,Everton,Tottenham,2,2,DRAW,1,0,LOSE,A Marriner,11,17,3,9,10,13,7,4,0,2,0,0,HOME
+E0,12/5/19,West Ham,Watford,1,4,WIN,0,2,WIN,C Kavanagh,17,16,8,9,10,10,7,2,1,0,1,0,HOME
